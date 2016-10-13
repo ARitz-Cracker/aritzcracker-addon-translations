@@ -1,0 +1,111 @@
+{
+	"msgs": {
+		"AdminMenu": {
+			"Enable": "Enable",
+			"Explination": "Some of these setting options are counter-intuitive and require explination. Would you like to see the explination?",
+			"Settings": "Settings",
+			"SlotIncome": "Income multiplier:",
+			"SaveSettings": "Save Settings",
+			"SlotPrize": "Prize:",
+			"Commands": "Commands",
+			"SlotChance": "Chances:",
+			"Unavailable": "This feature is currently unavailable",
+			"Logs": "System Logs",
+			"AdvSettings": "Advanced Settings",
+			"Remove": "Remove",
+			"Description": "Description:",
+			"ChooseSetting": "Choose setting",
+			"FreeSpin": "Free spin percent chance:",
+			"Add": "Add",
+			"SlotConfig": "Slot machine configuration menu"
+		},
+		"Time": {
+			"minutes": "minutes",
+			"nd": "and",
+			"hour": "hour",
+			"day": "day",
+			"minute": "minute",
+			"second": "second",
+			"now": "now",
+			"days": "days",
+			"forever": "forever",
+			"seconds": "seconds",
+			"hours": "hours"
+		},
+		"Notifications": {
+			"AlarmVault": "You cannot spawn an alarm without a vault",
+			"NoMoney": "You do not have enough cash!",
+			"VaultARCBank": "The vault requires ARCBank v1.3.6 or later (the paid version)",
+			"VaultOne": "There can only be one vault",
+			"Pocket": "No matter how hard to try, you can't fit this giant thing in your pants!"
+		},
+		"LogMsgs": [],
+		"CommandOutput": {
+			"SpawnSlotsNo": "No Slot Machines associated with this map. (Non-existent/Corrupt file)",
+			"SettingsSaved": "Settings have been saved!",
+			"SaveVault": "Casino Vault and alarms saved!",
+			"UnSaveSlotsNo": "An error occurred while detaching Slot Machines from map.",
+			"SpawnSlots": "Map-Based Slot Machines Spawned!",
+			"UnSaveVaultNo": "An error occurred while detaching the Casino Vault from map.",
+			"SaveSlots": "Slot Machines saved!",
+			"SaveVaultNo": "Error while saving vault and alarms.",
+			"ResetNo": "Error. Check server console for details. Or look at the latest system log located in garrysmod/data/_arcslots on the server.",
+			"AdminCommand": "You must be one of these ranks to use this command: %RANKS%",
+			"ResetYes": "System reset!",
+			"AdvSettingsSaved": "Advanced setting %SETTING% saved.",
+			"SaveSlotsNo": "Error while saving slot machines.",
+			"UnSaveVault": "Casino Vault and alarms detached from map",
+			"SysSetting": "%SETTING% has been changed to %VALUE%",
+			"UnSaveSlots": "Slot Machines detached from map!",
+			"SettingsError": "Error saving settings.",
+			"SysReset": "System reset required! Please enter \"arcslots reset\""
+		},
+		"Items": {
+			"SlotMachine": "Slot Machine"
+		},
+		"VaultMsgs": {
+			"Secure": "**SECURE**",
+			"Insecure": "**BREACHED**:",
+			"Status": "VAULT STATUS:",
+			"Warning": "** WARNING **",
+			"TotalFunds": "TOTAL FUNDS:",
+			"Funds": "VAULT FUNDS:"
+		},
+		"SlotMsgs": {
+			"BadLuck": "Being broke is bad Luck! If you get that bad card, you loose!",
+			"Wild": "The WILD card can substitute for any other symbol!",
+			"Jackpot": "CONGRATULATIONS YOU HAVE WON THE MEGA JACKPOT *** YOU WON %AMOUNT%",
+			"Loose": "BETTER LUCK NEXT TIME",
+			"Bet": "bet",
+			"LooseMock": "HA HA HA NOT TODAY",
+			"No": "No",
+			"MaxPrize": "MAX PRIZE: %AMOUNT%",
+			"BetMsg": "Select the amount you wish to bet:",
+			"Yes": "Yes",
+			"Lucky": "Feeling lucky today?",
+			"MegaWin": "WOW YOU WON %AMOUNT%",
+			"Win": "YOU WON %AMOUNT%",
+			"FreeSpins": "%AMOUNT% FREE SPINS!"
+		},
+		"Commands": {
+			"vault_unsave": "Unsave the vault",
+			"slots_unsave": "Unsave all Slot machines",
+			"slots_save": "Save all Slot machines",
+			"slots_respawn": "Respawn Slot machines",
+			"vault_save": "Save the vault"
+		}
+	},
+	"errmsgs": {
+		"0": "GIVE YOUR MONEY"
+	},
+	"settingsdesc": {
+		"owner_only": "Only someone with the \"owner\" usergroup can use admin commands (WARNING! IF YOU DON'T HAVE AN OWNER RANK, DO NOT ENABLE THIS SETTING)",
+		"vault_steal_rate": "The amount of money a player can take per second.",
+		"superadmin_only": "Only superadmins can use admin commands",
+		"slots_min_bet": "The minimum people can bet on the Slot Machines",
+		"slots_idle_text": "Text to display while the slot machine is idle",
+		"name_long": "The displayed \"long\" name of the addon.",
+		"name": "The displayed \"short\" name of the addon.",
+		"slots_max_bet": "The maximum people can bet on the Slot Machines"
+	}
+}
