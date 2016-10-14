@@ -358,7 +358,7 @@
 		"usergroup_1_standard": "The in-game rank(s) the player must be to create a standard account. ",
 		"death_money_remove": "The % of money that should be removed from the player when the die.",
 		"atm_hack_max": "The maximum amount a player can hack the ATM with an ATM hacker",
-		"atm_hack_time_curve": "TODO: Add description for this setting",
+		"atm_hack_time_curve": "Please see aritzcracker.ca/uploads/aritz/atm_hack_time_curve.png",
 		"atm_holo": "Floating sign above the ATM",
 		"money_max_6_group_standard": "The amount of money a group account account can hold. (Anything above 99999999999999 may break ARCBank)",
 		"atm_holo_text": "The text on the ATM sign",
