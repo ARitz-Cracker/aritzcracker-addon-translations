@@ -72,7 +72,7 @@
 			"Funds": "TRESOR INHALT:"
 		},
 		"SlotMsgs": {
-			"BadLuck": "Pleite zu sein, ist Pech! Wenn du die schlechte Karte bekommst, verlierst du!",
+			"BadLuck": "Wenn du die Broke-Card bekommst, verlierst du!",
 			"Wild": "Die Wild-Card ersetzt jedes andere Symbol!",
 			"Jackpot": "GLÜCKWUNSCH DU HAST DEN MEGA JACKPOT GEWONNEN *** DU HAST %AMOUNT% GEWONNEN",
 			"Loose": "MEHR GLÜCK BEIM NÄCHSTEN MAL",
