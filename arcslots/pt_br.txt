@@ -1,0 +1,123 @@
+{
+	"msgs": {
+		"AdminMenu": {
+			"Enable": "Habilitar",
+			"Explination": "Algumas dessas opções são complicadas de entender. Gostaria de ler as explicações?",
+			"Settings": "Configurações",
+			"SlotIncome": "Multiplicador de Renda:",
+			"SaveSettings": "Salvar Configurações",
+			"SlotPrize": "Recompensa:",
+			"Commands": "Comandos",
+			"SlotChance": "Chances:",
+			"Unavailable": "Não habilitada",
+			"Logs": "Registro",
+			"AdvSettings": "Configurações Avançadas",
+			"Remove": "Remover",
+			"Description": "Descrição:",
+			"ChooseSetting": "Escolher opção de configuração",
+			"FreeSpin": "Chance de uma rodada grátis:",
+			"Add": "Adicionar",
+			"SlotConfig": "ARCSlots - Menu de Configuração"
+		},
+		"Time": {
+			"minutes": "minutos",
+			"nd": "e",
+			"hour": "hora",
+			"day": "dia",
+			"minute": "minuto",
+			"second": "segundo",
+			"now": "agora",
+			"days": "dias",
+			"forever": "para sempre",
+			"seconds": "segundos",
+			"hours": "horas"
+		},
+		"Notifications": {
+			"AlarmVault": "Você não pode colocar um alarme sem um cofre",
+			"NoMoney": "Você não tem dinheiro suficiente!",
+			"VaultARCBank": "O cofre precisa do ARCBank v1.3.6+ (versão paga)",
+			"VaultOne": "Só pode haver um cofre",
+			"Pocket": "Não importa o quanto você tenta, não vai conseguir colocar essa coisa enorme em seu bolso!"
+		},
+		"LogMsgs": [],
+		"CommandOutput": {
+			"SpawnSlotsNo": "Nenhuma Máquina de Caça-Níqueis nesse mapa. (Não salvo/Arquivo corrompido)",
+			"SettingsSaved": "Configurações Salvas!",
+			"SaveVault": "Cofre do Casino salvo!",
+			"UnSaveSlotsNo": "Um erro ocorreu ao remover as Máquinas de Caça-Níqueis desse mapa.",
+			"SpawnSlots": "Máquinas de Caça-Níqueis baseadas no mapa colocadas!",
+			"UnSaveVaultNo": "Um erro ocorreu ao remover o Cofre do Casino desse mapa.",
+			"SaveSlots": "Máquinas de Caça-Níqueis salvas!",
+			"SaveVaultNo": "Erro ao salvar.",
+			"ResetNo": "Erro. Cheque o console ou os registros do servidor em garrysmod/data/_arcslots.",
+			"AdminCommand": "Você deve fazer partes de um desses ranks para usar esse comando: %RANKS%",
+			"ResetYes": "Reinicialização do Sistema!"
+			"AdvSettingsSaved": "Configuração avançada %SETTING% salva.",
+			"SaveSlotsNo": "Erro ao salvar máquinas de caça-níqueis.",
+			"UnSaveVault": "Máquinas de Caça-Níqueis e Cofre de Casino removidos.",
+			"SysSetting": "%SETTING% mudou para %VALUE%",
+			"UnSaveSlots": "Máquinas de Caça-Níqueis removidas do mapa!",
+			"SettingsError": "Erro ao salvar as configurações.",
+			"SysReset": "Reinicialização do Sistema necessária! Por favor, digite \"arcslots reset\ no console."
+		},
+		"Items": {
+			"SlotMachine": "Máquina de Caça-Níqueis"
+		},
+		"VaultMsgs": {
+			"Secure": "**SEGURO**",
+			"Insecure": "**INVADIDO**",
+			"Status": "STATUS DO COFRE:",
+			"Warning": "** AVISO **",
+			"TotalFunds": "FUNDOS TOTAIS:",
+			"Funds": "FUNDOS NO COFRE:"
+		},
+		"SlotMsgs": {
+			"BadLuck": "Ser um pobre é má sorte! Se você está lendo essa carta, significa que você perdeu!",
+			"Wild": "A carta SELVAGEM pode substituir qualquer símbolo!",
+			"Jackpot": "PARABÉNS, VOCÊ GANHOU O PRÊMIO MÁXIMO *** VOCÊ GANHOU %AMOUNT%",
+			"Loose": "MAIS SORTE DA PRÓXIMA VEZ",
+			"Bet": "apostar",
+			"LooseMock": "HA HA HA NÃO HOJE",
+			"No": "Não",
+			"MaxPrize": "PRÊMIO MÁXIMO: %AMOUNT%",
+			"BetMsg": "Escolha quanto você quer apostar:",
+			"Yes": "Sim",
+			"Lucky": "Se sente sortudo hoje?",
+			"MegaWin": "INCRÍVEL VOCÊ GANHOU %AMOUNT%",
+			"Win": "VOCÊ GANHOU %AMOUNT%",
+			"FreeSpins": "%AMOUNT% RODADAS GRÁTIS!"
+		},
+		"Commands": {
+			"vault_unsave": "Remover os cofre",
+			"slots_unsave": "Remover todos as Máquinas de Caça-Níqueis",
+			"slots_save": "Salvar todas as Máquinas de Caça-Níqueis",
+			"slots_respawn": "Recolocar as Máquinas de Caça-Níqueis",
+			"vault_save": "Salvar o cofre"
+		}
+	},
+	"errmsgs": {
+		"0": "MÊ DE SEU DINHEIRO"
+	},
+	"settingsdesc": {
+		"vault_steal_rate": "A quantidade de dinheiro que um jogador pode pegar por segundo.",
+		"slots_min_bet": "O número mínimo de dinheiro que pode ser apostado",
+		"slots_idle_text": "Texto que deve aparecer enquanto ninguém usar a máquina.",
+		"name_long": "O nome \"longo\" do addon.",
+		"name": "O nome \"curto\" do addon.",
+		"slots_max_bet": "O número máximo de dinheiro que pode ser apostado",
+		"slots_incr": "O quanto a aposta deve aumentar quando o botão + é pressionado",
+		"slots_incr_big": "O quanto a aposta deve aumentar quando o botão ++ é pressionado",
+		"slots_handle": "Se habilitado, as máquinas de caça-níqueis terão o Puxe a Alavanca em seus lados.",
+		"language": "Que língua usar. Se quiser criar sua própria, visite SERVER/garrysmod/data/_arcbank/languages",
+		"slots_volume": "O quão alto as máquinas de caça-níqueis devem ser (Entre 0 e 1)",
+		"money_symbol": "O símbolo usado para o dinheiro",
+		"legacy_bet_interface": "Se habilitado, um menu será aberto para fazer as apostas ao invés de usar a interface imersiva.",
+		"admins": "Lista de ranks que podem usar os comandos de administrador.",
+		"vault_hack_max": "O máximo de dinheiro que pode ser roubado do cofre.",
+		"vault_hack_min": "O mínimo de dinheiro que pode ser roubado do cofre.",
+		"vault_hack_time_max": "O tempo máximo que demora para terminar o hack do cofre.",
+		"vault_hack_time_min": "O tempo mínimo que demora para terminar o hack do cofre.",
+		"vault_hack_time_stealth_rate": "Usando o \"modo furtivo\" irá multiplicar o tempo de hack por esse número",
+		"vault_hack_time_curve": "Veja aritzcracker.ca/uploads/aritz/atm_hack_time_curve.png"
+	}
+}
