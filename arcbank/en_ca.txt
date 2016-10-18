@@ -363,7 +363,7 @@
 		"money_max_6_group_standard": "The amount of money a group account account can hold. (Anything above 99999999999999 may break ARCBank)",
 		"atm_holo_text": "The text on the ATM sign",
 		"money_max_3_silver": "The amount of money a silver account can hold. (Anything above 99999999999999 may break ARCBank)",
-		"language": "Which language file to use. (without .txt) they are located in data/_arcbank/languages. Default options are %OPTIONS%",
+		"language": "Which language to use. If you want a custom language, create your own file in SERVER/garrysmod/data/_arcbank",
 		"money_max_2_bronze": "The amount of money a bronze account can hold. (Anything above 99999999999999 may break ARCBank)",
 		"atm_hack_allowed_use": "Enable/Disable the atm_hack_allowed setting",
 		"account_group_limit": "A player can only create this many group accounts",

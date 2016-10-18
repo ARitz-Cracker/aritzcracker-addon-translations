@@ -65,7 +65,7 @@
 		},
 		"VaultMsgs": {
 			"Secure": "**SECURE**",
-			"Insecure": "**BREACHED**:",
+			"Insecure": "**BREACHED**",
 			"Status": "VAULT STATUS:",
 			"Warning": "** WARNING **",
 			"TotalFunds": "TOTAL FUNDS:",
@@ -99,13 +99,25 @@
 		"0": "GIVE YOUR MONEY"
 	},
 	"settingsdesc": {
-		"owner_only": "Only someone with the \"owner\" usergroup can use admin commands (WARNING! IF YOU DON'T HAVE AN OWNER RANK, DO NOT ENABLE THIS SETTING)",
 		"vault_steal_rate": "The amount of money a player can take per second.",
-		"superadmin_only": "Only superadmins can use admin commands",
 		"slots_min_bet": "The minimum people can bet on the Slot Machines",
 		"slots_idle_text": "Text to display while the slot machine is idle",
 		"name_long": "The displayed \"long\" name of the addon.",
 		"name": "The displayed \"short\" name of the addon.",
-		"slots_max_bet": "The maximum people can bet on the Slot Machines"
+		"slots_max_bet": "The maximum people can bet on the Slot Machines",
+		"slots_incr": "How much the bet should increase by when the + button is pressed",
+		"slots_incr_big": "How much the bet should increase by when the ++ button is pressed",
+		"slots_handle": "If enabled, the slot machines will have the pull lever on their side",
+		"language": "Which language to use. If you want a custom language, create your own file in SERVER/garrysmod/data/_arcbank/languages",
+		"slots_volume": "How loud the slot machines should be (Between 0 and 1)",
+		"money_symbol": "The symbol of currency to display",
+		"legacy_bet_interface": "If enabled, the slot machines will use a popup window to select the bet instead of the immsersive interface.",
+		"admins": "List of in game rank(s) that can use the admin GUI and the admin commands.",
+		"vault_hack_max": "The maximum amount of money that can be taken from the vault by hacking it.",
+		"vault_hack_min": "The minumum amount of money that can be taken from the vault by hacking it.",
+		"vault_hack_time_max": "The maximum amount of time it takes to hack the vault.",
+		"vault_hack_time_min": "The minimum amount of time it takes to hack the vault.",
+		"vault_hack_time_stealth_rate": "Setting the ATM Hacker to \"stealth mode\" will multiply the hacking time by this amount",
+		"vault_hack_time_curve": "Please see aritzcracker.ca/uploads/aritz/atm_hack_time_curve.png"
 	}
 }
