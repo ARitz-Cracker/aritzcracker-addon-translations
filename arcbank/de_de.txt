@@ -363,7 +363,7 @@
 		"money_max_6_group_standard": "Die maximale Summe an Geld die ein Gruppenkonto haben kann. (Alles über 99999999999999 kann ARCBank kaputt machen)",
 		"atm_holo_text": "Der Text über dem ATM",
 		"money_max_3_silver": "Die maximale Summe die ein Silberkonto haben kann. (Alles über 99999999999999 kann ARCBank kaputt machen)",
-		"language": "Welche Sprachdatei soll genutzt werden? (ohne .txt) Du kannst sie unter data/_arcbank/languages finden. Wähle zwischen: %OPTIONS%",
+		"language": "Which language to use. If you want a custom language, create your own file in SERVER/garrysmod/data/_arcbank",
 		"money_max_2_bronze": "Die maximale Summe die ein Bronzekonto haben kann. (Alles über 99999999999999 kann ARCBank kaputt machen)",
 		"atm_hack_allowed_use": "atm_hack_allowed Einstellung an-/ausschalten",
 		"account_group_limit": "Wie viele Gruppenkonten kann man maximal haben?",
