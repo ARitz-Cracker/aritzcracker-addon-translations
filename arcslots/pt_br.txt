@@ -51,14 +51,14 @@
 			"SaveVaultNo": "Erro ao salvar.",
 			"ResetNo": "Erro. Cheque o console ou os registros do servidor em garrysmod/data/_arcslots.",
 			"AdminCommand": "Você deve fazer partes de um desses ranks para usar esse comando: %RANKS%",
-			"ResetYes": "Reinicialização do Sistema!"
+			"ResetYes": "Reinicialização do Sistema!",
 			"AdvSettingsSaved": "Configuração avançada %SETTING% salva.",
 			"SaveSlotsNo": "Erro ao salvar máquinas de caça-níqueis.",
 			"UnSaveVault": "Máquinas de Caça-Níqueis e Cofre de Casino removidos.",
 			"SysSetting": "%SETTING% mudou para %VALUE%",
 			"UnSaveSlots": "Máquinas de Caça-Níqueis removidas do mapa!",
 			"SettingsError": "Erro ao salvar as configurações.",
-			"SysReset": "Reinicialização do Sistema necessária! Por favor, digite \"arcslots reset\ no console."
+			"SysReset": "Reinicialização do Sistema necessária! Por favor, digite \"arcslots reset\" no console."
 		},
 		"Items": {
 			"SlotMachine": "Máquina de Caça-Níqueis"
