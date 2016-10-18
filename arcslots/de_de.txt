@@ -1,0 +1,111 @@
+{
+	"msgs": {
+		"AdminMenu": {
+			"Enable": "Aktivieren",
+			"Explination": "Einige dieser Einstellungsoptionen sind Gegen-Intuitiv und erfordern eine Erklärung. Möchtest du diese Erklärung sehen?",
+			"Settings": "Einstellungen",
+			"SlotIncome": "Einkommen-Multiplikator:",
+			"SaveSettings": "Einstellungen speichern",
+			"SlotPrize": "Preis:",
+			"Commands": "Kommandos",
+			"SlotChance": "Chancen:",
+			"Unavailable": "Dieses Feature ist zurzeit nicht verfügbar",
+			"Logs": "System Logs",
+			"AdvSettings": "Erweiterte Einstellungen",
+			"Remove": "Entfernen",
+			"Description": "Beschreibung:",
+			"ChooseSetting": "Einstellung wählen",
+			"FreeSpin": "Free Spin Prozentchance:",
+			"Add": "Hinzufügen",
+			"SlotConfig": "Spielautomaten Einstellungsmenü"
+		},
+		"Time": {
+			"minutes": "Minuten",
+			"nd": "und",
+			"hour": "Stunden",
+			"day": "Tag",
+			"minute": "Minute",
+			"second": "Sekunde",
+			"now": "Jetzt",
+			"days": "Tage",
+			"forever": "Für Immer",
+			"seconds": "Sekunden",
+			"hours": "Stunden"
+		},
+		"Notifications": {
+			"AlarmVault": "Du kannst keinen Alarm ohne einen Tresor spawnen.",
+			"NoMoney": "Du hast nicht genug Geld!",
+			"VaultARCBank": "Der Tresor benötigt ARCBank v1.3.6 oder höher. (Die bezahlte Version)",
+			"VaultOne": "Es kann nur einen Tresor geben.",
+			"Pocket": "Egal wie sehr du es versuchst aber er passt nicht in deine Hose!"
+		},
+		"LogMsgs": [],
+		"CommandOutput": {
+			"SpawnSlotsNo": "Keine Spielautomaten auf der Map vorhanden. (Nicht Existente/korrupte Datei)",
+			"SettingsSaved": "Einstellungen wurden gespeichert!",
+			"SaveVault": "Casino Tresor und Alarme gespeichert!",
+			"UnSaveSlotsNo": "Ein Fehler ist beim Loslösen der Spielautomaten von der Map aufgetreten.",
+			"SpawnSlots": "Map-basierte Spielautomaten wurden gespawnt!",
+			"UnSaveVaultNo": "Ein Fehler ist beim Loslösen des Casino Tresors von der Map aufgetreten.",
+			"SaveSlots": "Spielautomaten gespeichert!",
+			"SaveVaultNo": "Ein Fehler ist beim Speichern des Casino Tresors und der Alarme aufgetreten.",
+			"ResetNo": "Ein Fehler ist aufgetreten. Überprüfe die Server Konsole für Details. Oder werfe einen Blick auf den zuletzt erstellen Systemlog in garrysmod/data/_arcslots auf dem Server.",
+			"AdminCommand": "Du brauchst einen dieser Ränge um den Befehl zu benutzen: %RANKS%",
+			"ResetYes": "System Reset!",
+			"AdvSettingsSaved": "Erweiterte Einstellung: %SETTING% wurde gespeichert.",
+			"SaveSlotsNo": "Error beim Speichern der Slot Machines.",
+			"UnSaveVault": "Casino Tresor und Alarme von der Map gelöst!",
+			"SysSetting": "%SETTING% wurde geändert zu %VALUE%",
+			"UnSaveSlots": "Spielautomaten von der Map gelöst!",
+			"SettingsError": "Fehler beim Speichern der Einstellungen.",
+			"SysReset": "System Reset benötigt! Bitte gebe folgendes in die Konsole ein: \"arcslots reset\""
+		},
+		"Items": {
+			"SlotMachine": "Spielautomat"
+		},
+		"VaultMsgs": {
+			"Secure": "**SICHER**",
+			"Insecure": "**AUFGEBROCHEN**:",
+			"Status": "TRESOR STATUS:",
+			"Warning": "** WARNUNG **",
+			"TotalFunds": "GESAMTER INHALT:",
+			"Funds": "TRESOR INHALT:"
+		},
+		"SlotMsgs": {
+			"BadLuck": "Wenn du die Broke-Card bekommst, verlierst du!",
+			"Wild": "Die Wild-Card ersetzt jedes andere Symbol!",
+			"Jackpot": "GLÜCKWUNSCH DU HAST DEN MEGA JACKPOT GEWONNEN *** DU HAST %AMOUNT% GEWONNEN",
+			"Loose": "MEHR GLÜCK BEIM NÄCHSTEN MAL",
+			"Bet": "Wetteinsatz",
+			"LooseMock": "HA HA HA HEUTE NICHT",
+			"No": "Nein",
+			"MaxPrize": "MAX PREIS: %AMOUNT%",
+			"BetMsg": "Wähle den Betrag den du setzen möchtest:",
+			"Yes": "Ja",
+			"Lucky": "Ist heute dein Glückstag?",
+			"MegaWin": "WOW DU HAST %AMOUNT% GEWONNEN",
+			"Win": "DU HAST %AMOUNT% GEWONNEN",
+			"FreeSpins": "%AMOUNT% GRATIS SPINS!"
+		},
+		"Commands": {
+			"vault_unsave": "Tresor löschen",
+			"slots_unsave": "Spielautomaten löschen",
+			"slots_save": "Spielautomaten speichern",
+			"slots_respawn": "Spielautomaten respawnen",
+			"vault_save": "Tresor speichern"
+		}
+	},
+	"errmsgs": {
+		"0": "GIB MIR DEIN GELD"
+	},
+	"settingsdesc": {
+		"owner_only": "Nur jemand mit der \"owner\" darf Admincommands benutzen. (ACHTUNG! WENN DU KEINEN OWNER RANG HAST AKTIVIERE ES NICHT)",
+		"vault_steal_rate": "Die Summe an Geld die jede Sekunde genommen werden kann.",
+		"superadmin_only": "Nur Superadmins können Admincommands benutzen.",
+		"slots_min_bet": "Den minimalen Wetteinsatz den Spieler bei Spielautomaten setzen dürfen.",
+		"slots_idle_text": "Text der angezeigt werden soll wenn der Spielautomat untätig ist.",
+		"name_long": "Der dargestellte \"long\" Name des Addons.",
+		"name": "Der dargestellte \"short\" Name des Addons.",
+		"slots_max_bet": "Den maximalen Wetteinsatz den Spieler bei Spielautomaten setzen dürfen."
+	}
+}
