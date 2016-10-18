@@ -72,7 +72,7 @@
 			"Funds": "FUNDOS NO COFRE:"
 		},
 		"SlotMsgs": {
-			"BadLuck": "Ser um pobre é má sorte! Se você está lendo essa carta, significa que você perdeu!",
+			"BadLuck": "Se você está lendo essa carta, você perdeu.",
 			"Wild": "A carta SELVAGEM pode substituir qualquer símbolo!",
 			"Jackpot": "PARABÉNS, VOCÊ GANHOU O PRÊMIO MÁXIMO *** VOCÊ GANHOU %AMOUNT%",
 			"Loose": "MAIS SORTE DA PRÓXIMA VEZ",
