@@ -56,7 +56,7 @@
 			"SIDAsk": "Est-ce que le SteamID commence par STEAM_0:1?",
 			"Exit": "Sortir",
 			"Abort": "Interrompre",
-      "NetworkError": "ARCBank n'a pas réussi à charger! La cause la plus courante est une configuration incorrecte.\nEntrez s'il vous plait \"arcbank reset\" dans la console pour recharger ARCBank.",
+      			"NetworkError": "ARCBank n'a pas réussi à charger! La cause la plus courante est une configuration incorrecte. Entrez s'il vous plait \"arcbank reset\" dans la console pour recharger ARCBank.",
 			"CreateGroupAccount": "*Créer un compte Groupe",
 			"UpgradeAccount": "Etes-vous sûr que vous voulez mettre à jour ce compte?",
 			"Ignore": "Ignorer",
@@ -94,7 +94,7 @@
 			"Balance": "Solde: ",
 			"Enter": "Appuyez sur \"ENTER\" pour continuer",
 			"PersonalAccount": "*Compte personnel             ",
-			"CloseNotice": "Vous êtes sur le point de fermer ce compte. Tout l'argent ici sera considéré comme un \"donation\" à ARCBank.\nÊtes-vous sûr?",
+			"CloseNotice": "Vous êtes sur le point de fermer ce compte. Tout l'argent ici sera considéré comme un \"donation\" à ARCBank.\ Êtes-vous sûr?",
 			"Retry": "Recommencez",
 			"GiveCash": "S'il vous plaît insérer votre argent.",
 			"File": "Fichier texte - Page %PAGE%"
@@ -383,18 +383,18 @@
 		"name": "L'affichage \"short\" nom de l'addon.",
 		"money_max_1_standard": "Le montant d'argent d'un compte standard peut contenir. (Tout ce qui dépasse 99999999999999 peut briser ARCBank)",
 		"autoban_time": "(nom du joueur) sera banni pour ce nombre de minutes.",
-		"use_bank_for_payday": "Payday checks will be sent to your Bank account.",
+		"use_bank_for_payday": "chèques de dépannage seront envoyés à votre compte bancaire.",
 		"card_weapon_position_up": "Ou de devtrait-être la position exacte de la carte en haut du HUD",
 		"atm_hack_time_stealth_rate": "Réglagle tu piratage d'ATM vers \"stealth mode\" va multiplier le temps du piratage de ce montant",
 		"atm_hack_allowed": "Les joueurs de ces équipes seront en mesure d'utiliser un appareil de piratage.",
-		"card_texture": "La texture de la Carte de crédit.",
-		"name_long": "L'affichage \"long\" nnom de l'addon.",
+		"card_texture": "Le texture de la carte de crédit.",
+		"name_long": "L'affichage \"long\" nom de l'addon.",
 		"atm_holo_rotate": "Si le marquage de l'ATM peut tourner?",
 		"card_weapon_slot": "weapon_arc_atmcard.Slot",
 		"atm_hack_notify": "Les joueurs qui sont forces de l'ordre seront informés quand un ATM est piraté.",
 		"admins": "Liste des rangs dans le jeu qui peuvent utiliser l'interface graphique d'administration et les commandes d'administration.",
 		"usergroup_2_bronze": "Le rang qu'un joueur doit-être pour créer un compte bronze.",
-		"atm_hack_min": "Le montant minimum qu'un joueur peut pirater sur un ATM avec un appareil de pirate d'ATM",
-		"atm_hack_min_player": "Le pirate d'ATM ne sera pas possible à moins qu'il ait le nombre minimum requis de joueurs."
+		"atm_hack_min": "Le montant minimum qu'un joueur peut pirater sur un ATM avec un appareil de piratage d'ATM",
+		"atm_hack_min_player": "Le pirate d'ATM ne sera pas possible à moins qu'il ait le nombre minimum requis de joueurs connectés."
 	}
 }
