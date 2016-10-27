@@ -69,7 +69,21 @@
 			"Status": "STATUS DO COFRE:",
 			"Warning": "** AVISO **",
 			"TotalFunds": "FUNDOS TOTAIS:",
-			"Funds": "FUNDOS NO COFRE:"
+			"Funds": "FUNDOS NO COFRE:",
+			"GettingCash": "You are entitled to receiving casino profits for the next %TIME%.",
+			"WithdrawAmount": "You can currently withdraw %AMOUNT%",
+			"NotGettingCash": "You are currently not receiving casino profits.",
+			"PleaseCheckIn": "Please authenticate to start receiving casino profits",
+			"CheckIn": "Authenticate as manager",
+			"Exit": "Exit",
+			"WithdrawCash": "Withdraw earnings as cash",
+			"WithdrawBank": "Transfer earnings to bank account",
+			"NotManager": "You are not a casino manager",
+			"NoCash": "You cannot withdraw that much money",
+			"NotAuthed": "You are not authenticated",
+			"MaxManagers": "There are already the maximum amount of managers",
+			"WhichAccount": "Which account would you like to send your funds to?",
+			"Robbed": "The vault was robbed while you were on duty. You may not authenticate until your previous authentication expires or you regained the casino's profits."
 		},
 		"SlotMsgs": {
 			"BadLuck": "Se você está lendo essa carta, você perdeu.",
@@ -118,6 +132,8 @@
 		"vault_hack_time_max": "O tempo máximo que demora para terminar o hack do cofre.",
 		"vault_hack_time_min": "O tempo mínimo que demora para terminar o hack do cofre.",
 		"vault_hack_time_stealth_rate": "Usando o \"modo furtivo\" irá multiplicar o tempo de hack por esse número",
-		"vault_hack_time_curve": "Veja aritzcracker.ca/uploads/aritz/atm_hack_time_curve.png"
+		"vault_hack_time_curve": "Veja aritzcracker.ca/uploads/aritz/atm_hack_time_curve.png",
+		"manager_auth_time": "The amount of minutes a casino manager will recieve profits after authenticating",
+		"manager_auth_teams": "People in these teams will be considered potential casino managers"
 	}
 }

@@ -395,6 +395,12 @@
 		"admins": "Liste des rangs dans le jeu qui peuvent utiliser l'interface graphique d'administration et les commandes d'administration.",
 		"usergroup_2_bronze": "Le rang qu\'un joueur doit-être pour créer un compte bronze.",
 		"atm_hack_min": "Le montant minimum qu\'un joueur peut pirater sur un ATM avec un appareil de piratage.",
-		"atm_hack_min_player": "Le pirate d'ATM ne sera pas possible à moins qu'il ait le nombre minimum requis de joueurs connectés."
+		"atm_hack_min_player": "Le pirate d'ATM ne sera pas possible à moins qu'il ait le nombre minimum requis de joueurs connectés.",
+		"atm_fast_amount_1": "The 1st quick-pick option on the atm deposit/withdraw screen",
+		"atm_fast_amount_2": "The 2nd quick-pick option on the atm deposit/withdraw screen",
+		"atm_fast_amount_3": "The 3rd quick-pick option on the atm deposit/withdraw screen",
+		"atm_fast_amount_4": "The 4th quick-pick option on the atm deposit/withdraw screen",
+		"atm_fast_amount_5": "The 5th quick-pick option on the atm deposit/withdraw screen",
+		"atm_fast_amount_6": "The 6th quick-pick option on the atm deposit/withdraw screen"
 	}
 }

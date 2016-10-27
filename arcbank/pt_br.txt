@@ -395,6 +395,12 @@
 		"admins": "Os ranks que podem usar os comandos de administrador.",
 		"usergroup_2_bronze": "O rank que o jogador deve ter para ter uma conta bronze.",
 		"atm_hack_min": "O mínimo de dinheiro que um jogador pode roubar de um Terminal.",
-		"atm_hack_min_player": "Roubar o Terminal não será possível sem essa quantidade mínima de jogadores."
+		"atm_hack_min_player": "Roubar o Terminal não será possível sem essa quantidade mínima de jogadores.",
+		"atm_fast_amount_1": "The 1st quick-pick option on the atm deposit/withdraw screen",
+		"atm_fast_amount_2": "The 2nd quick-pick option on the atm deposit/withdraw screen",
+		"atm_fast_amount_3": "The 3rd quick-pick option on the atm deposit/withdraw screen",
+		"atm_fast_amount_4": "The 4th quick-pick option on the atm deposit/withdraw screen",
+		"atm_fast_amount_5": "The 5th quick-pick option on the atm deposit/withdraw screen",
+		"atm_fast_amount_6": "The 6th quick-pick option on the atm deposit/withdraw screen"
 	}
 }

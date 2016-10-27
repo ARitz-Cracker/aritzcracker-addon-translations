@@ -395,6 +395,12 @@
 		"admins": "Eine Liste der Ingame Ränge die das Admin GUI und die Admin Commands benutzen dürfen.",
 		"usergroup_2_bronze": "Den Ingame Rang(Ränge) ein Spieler haben muss um ein Bronzekonto erstellen zu dürfen.",
 		"atm_hack_min": "Die minimale Summe an Geld die der ATM-Hacker von einem ATM erhalten kann",
-		"atm_hack_min_player": "Der ATM-Hacker wird nicht funktionieren wenn nicht die angegebene Zahl an Spielern auf dem Server ist."
+		"atm_hack_min_player": "Der ATM-Hacker wird nicht funktionieren wenn nicht die angegebene Zahl an Spielern auf dem Server ist.",
+		"atm_fast_amount_1": "The 1st quick-pick option on the atm deposit/withdraw screen",
+		"atm_fast_amount_2": "The 2nd quick-pick option on the atm deposit/withdraw screen",
+		"atm_fast_amount_3": "The 3rd quick-pick option on the atm deposit/withdraw screen",
+		"atm_fast_amount_4": "The 4th quick-pick option on the atm deposit/withdraw screen",
+		"atm_fast_amount_5": "The 5th quick-pick option on the atm deposit/withdraw screen",
+		"atm_fast_amount_6": "The 6th quick-pick option on the atm deposit/withdraw screen"
 	}
 }
