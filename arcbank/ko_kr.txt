@@ -162,7 +162,7 @@
 			"ShowMenu": "메뉴 보기",
 			"DarkMode": "어두운 테마",
 			"PauseSecondsShort": "일시정지 (초):",
-			"IntrButt": "인터페이스 유형: 버튼,
+			"IntrButt": "인터페이스 유형: 버튼",
 			"CardAnim": "카드 애니메이션",
 			"WithdrawAnim": "인출 애니메이션",
 			"ScreenHeight": "높이",
