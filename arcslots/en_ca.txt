@@ -86,7 +86,7 @@
 			"Robbed": "The vault was robbed while you were on duty. You may not authenticate until your previous authentication expires or you regained the casino's profits."
 		},
 		"SlotMsgs": {
-			"BadLuck": "Being broke is bad Luck! If you get that bad card, you loose!",
+			"BadLuck": "Being broke is bad Luck! If you get that bad card, you lose!",
 			"Wild": "The WILD card can substitute for any other symbol!",
 			"Jackpot": "CONGRATULATIONS YOU HAVE WON THE MEGA JACKPOT *** YOU WON %AMOUNT%",
 			"Loose": "BETTER LUCK NEXT TIME",
