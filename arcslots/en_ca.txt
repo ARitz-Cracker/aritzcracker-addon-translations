@@ -125,7 +125,7 @@
 		"language": "Which language to use. If you want a custom language, create your own file in SERVER/garrysmod/data/_arcbank/languages",
 		"slots_volume": "How loud the slot machines should be (Between 0 and 1)",
 		"money_symbol": "The symbol of currency to display",
-		"legacy_bet_interface": "If enabled, the slot machines will use a popup window to select the bet instead of the immsersive interface.",
+		"legacy_bet_interface": "If enabled, the slot machines will use a popup window to select the bet instead of the immersive interface.",
 		"admins": "List of in game rank(s) that can use the admin GUI and the admin commands.",
 		"vault_hack_max": "The maximum amount of money that can be taken from the vault by hacking it.",
 		"vault_hack_min": "The minumum amount of money that can be taken from the vault by hacking it.",
