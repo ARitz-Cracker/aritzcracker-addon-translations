@@ -382,7 +382,7 @@
 		"atm_hack_min_hackerstoppers": "ATM을 해킹하기 위해선 이만큼의 경찰이 필요합니다. (atm_hack_notify 설정 참조)",
 		"name": "표시될 애드온의 \"짧은\" 이름.",
 		"money_max_1_standard": "표준 계좌에 저장할 수 있는 돈의 양. (99999999999999를 초과하는 값은 ARCBank를 고장낼 수 있습니다)",
-		"autoban_time": "놀랍게도 공격/악용을 '생각'하는 중에도 자동으로 이만큼의 시간동안 밴해버립니다!",
+		"autoban_time": "ARCBank는 뛰어난 기술력덕분에 놀랍게도 누군가가 서버를 해킹하려는 '생각'만 해도 감지하고 차단합니다! 이 설정은 그 해커를 차단(밴)할 시간(분)을 정합니다.",
 		"use_bank_for_payday": "봉급을 은행 계좌로 전송합니다.",
 		"card_weapon_position_up": "HUD의 카드를 위쪽으로 이동시킬 양",
 		"atm_hack_time_stealth_rate": "ATM 해킹장치의 \"스텔스 모드\" 해킹 시간의 배수를 설정합니다",
