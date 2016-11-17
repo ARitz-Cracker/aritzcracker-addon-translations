@@ -97,7 +97,8 @@
 			"CloseNotice": "Vous êtes sur le point de fermer ce compte. Tout l\'argent ici sera considéré comme une \"donation\" à ARCBank.\nÊtes-vous sûr?",
 			"Retry": "Recommencez",
 			"GiveCash": "S\'il vous plaît insérer votre argent.",
-			"File": "Fichier texte - Page %PAGE%"
+			"File": "Fichier texte - Page %PAGE%",
+			"EnterPlayer": "Please enter the player's card number"
 		},
 		"LogMsgs": {
 			"RemoveMoney": "(%PLAYER%) soustrait %VALUE% à partir du compte. ",
@@ -401,6 +402,10 @@
 		"atm_fast_amount_3": "The 3rd quick-pick option on the atm deposit/withdraw screen",
 		"atm_fast_amount_4": "The 4th quick-pick option on the atm deposit/withdraw screen",
 		"atm_fast_amount_5": "The 5th quick-pick option on the atm deposit/withdraw screen",
-		"atm_fast_amount_6": "The 6th quick-pick option on the atm deposit/withdraw screen"
+		"atm_fast_amount_6": "The 6th quick-pick option on the atm deposit/withdraw screen",
+		"card_weapon": "The card weapon to use. Only change this if you made your own custom one",
+		"card_texture_world": "The texture used on the card worldmodel. This will only work on ATMs that use the default card model.",
+		"card_draw_vehicle": "If enabled, the card be drawn in the HUD while the player is in a vehicle. (Why is this a config option. Shouldn't this be disabled all the time?)",
+		"money_format": "How the money symbol should be displayed. 0 will be replaced with the amount, and $ will be replaced with the money symbol"
 	}
 }
