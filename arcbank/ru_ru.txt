@@ -58,7 +58,7 @@
 			"Abort": "Прерывание",
 			"NetworkError": "ARCBank не удалось загрузить! Наиболее частой причиной этого является Неверная конфигурация\nПожалуйста введите \"arcbank reset\" в консоли, чтобы перезагрузить ARCBank.",
 			"CreateGroupAccount": "*Создать Учетную Запись",
-			"UpgradeAccount": Вы уверены, что хотите обновить этот счет?",
+			"UpgradeAccount": "Вы уверены, что хотите обновить этот счет?",
 			"Ignore": "Игнорировать",
 			"AddPlayerGroup": "Добавить игрока в группу",
 			"HackingError": "Я не работаю:(\nINVALID_MEMORY_OPERATION\nПожалуйста посетите другой банкомат",
@@ -97,7 +97,8 @@
 			"CloseNotice": "Вы собираетесь закрыть этот счет. Все деньги здесь будет рассматриваться как \"дар\" в ARCBank.\nВы уверены?",
 			"Retry": "Повторить попытку",
 			"GiveCash": "Пожалуйста, укажите ваши деньги.",
-			"File": "Текстовый Файл - Страница %PAGE%"
+			"File": "Текстовый Файл - Страница %PAGE%",
+			"EnterPlayer": "Please enter the player's card number"
 		},
 		"LogMsgs": {
 			"RemoveMoney": "(%PLAYER%) Снимает %VALUE% с счета. ",
@@ -115,7 +116,7 @@
 			"DepositSound": "Играть звук депозита",
 			"DepostAnimaion": "Анимация депозита",
 			"TestCardOutAnim": "Удалить анимацию с тестовой карты",
-			"MsgBox": "Error: "Пользовательские банкомат-это слишком круто!",
+			"MsgBox": "Error: Пользовательские банкомат-это слишком круто!",
 			"DepositSoundLoop": "Играть в ожидании депозита звуковой плейлист (Нажмите здесь, чтобы изменить звук)",
 			"HackedExplination": "В то время как восстановление после взлома, окно приветствия будет выбрать случайную текстуру из следующего списка каждые 0.1секунд",
 			"SaveTitle": "Сохранить пользовательский банкомат!",
@@ -401,6 +402,9 @@
 		"atm_fast_amount_3": "The 3rd quick-pick option on the atm deposit/withdraw screen",
 		"atm_fast_amount_4": "The 4th quick-pick option on the atm deposit/withdraw screen",
 		"atm_fast_amount_5": "The 5th quick-pick option on the atm deposit/withdraw screen",
-		"atm_fast_amount_6": "The 6th quick-pick option on the atm deposit/withdraw screen"
+		"atm_fast_amount_6": "The 6th quick-pick option on the atm deposit/withdraw screen",
+		"card_texture_world": "The texture used on the card worldmodel. This will only work on ATMs that use the default card model.",
+		"card_draw_vehicle": "If enabled, the card be drawn in the HUD while the player is in a vehicle. (Why is this a config option. Shouldn't this be disabled all the time?)",
+		"money_format": "How the money symbol should be displayed. 0 will be replaced with the amount, and $ will be replaced with the money symbol"
 	}
 }
