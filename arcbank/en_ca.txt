@@ -323,6 +323,8 @@
 		"16": "Failure writing to database.",
 		"17": "Mmm yes. You are a very good hacker. Totally.",
 		"18": "Download failed. Data is corrupted.",
+		"19": "Bank account is corrupt",
+		"20": "The account is locked. This is usually caused by the server shutting down while a transaction was in progress.",
 		"32": "Account with the same or a similar name already exists.",
 		"33": "Account name is too long.",
 		"34": "Invalid account name.",
@@ -331,6 +333,7 @@
 		"37": "You've reached the limit of accounts you can have.",
 		"38": "There are too many players in this group.",
 		"39": "You cannot close a personal account.",
+		"40": "A group account's name must not start with \"personal\"",
 		"-128": "Unknown Error. Try again.",
 		"-127": "The ARCBank system failed to load.",
 		"-2": "Downloading...",
@@ -406,6 +409,7 @@
 		"card_weapon": "The card weapon to use. Only change this if you made your own custom one",
 		"card_texture_world": "The texture used on the card worldmodel. This will only work on ATMs that use the default card model.",
 		"card_draw_vehicle": "If enabled, the card be drawn in the HUD while the player is in a vehicle. (Why is this a config option. Shouldn't this be disabled all the time?)",
-		"money_format": "How the money symbol should be displayed. 0 will be replaced with the amount, and $ will be replaced with the money symbol"
+		"money_format": "How the money symbol should be displayed. 0 will be replaced with the amount, and $ will be replaced with the money symbol",
+		"account_interest_time_limit": "If a player doesn't use their account for this many days, they'll stop recieving interest"
 	}
 }

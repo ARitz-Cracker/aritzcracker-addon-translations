@@ -1,0 +1,31 @@
+{
+	"msgs": {
+		"Generic": {
+		},
+		"PitstopMsgs": {
+		},
+		"CommandOutput": {
+		},
+		"AdminMenu": {
+		},
+		"tool": {
+		},
+		"Time": {
+			"minutes": "minutes",
+			"nd": "and",
+			"hour": "hour",
+			"day": "day",
+			"minute": "minute",
+			"second": "second",
+			"now": "now",
+			"days": "days",
+			"forever": "forever",
+			"seconds": "seconds",
+			"hours": "hours"
+		},
+	},
+	"errmsgs": {
+	},
+	"settingsdesc": {
+	}
+}
