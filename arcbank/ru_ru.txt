@@ -314,7 +314,7 @@
 		"7": "Игрок вы пытались добавить в группу уже является ее членом.",
 		"8": "Счет достиг своего предела!",
 		"9": "Вы не можете сделать это, пока вы находитесь в долгу",
-                "10": "Система занята. Попробуйте позже.",
+		"10": "Система занята. Попробуйте позже.",
 		"11": "Сервер слишком долго отвечает.",
 		"12": "В доступе к базе данных отказо.",
 		"13": "Неправильный пин-код.",
@@ -323,6 +323,8 @@
 		"16": "Ошибка записи в базу данных.",
 		"17": "МММ да. Вы очень хороший хакер. Полностью.",
 		"18": "Скачать не удалось. Данные повреждены.",
+		"19": "Bank account is corrupt",
+		"20": "The account is locked. This is usually caused by the server shutting down while a transaction was in progress.",
 		"32": "Учетная запись с таким же или схожим названием уже существует",
 		"33": "Имя пользователя слишком длинное.",
 		"34": "Недопустимое имя учетной записи.",
@@ -331,13 +333,14 @@
 		"37": "Вы достигли лимита счета, которого вы можете иметь.",
 		"38": "В этой группе слишком много игроков.",
 		"39": "Нельзя закрыть Личный счет.",
+		"40": "A group account's name must not start with \"personal\"",
 		"-128": "Неизвестная Ошибка. Попробуйте еще раз.",
 		"-127": "Не удалось загрузить систему ARCBank ",
 		"-2": "загрузка...",
 		"-1": "Операция Прервана"
 	},
 	"settingsdesc": {
-		"card_weapon_slotpos": "weapon_arc_atmcard.SlotPos",
+		"card_weapon_slotpos": "How far down the ATM card should be in its slot",
 		"interest_6_group_standard": "The % of interest a standard group account will gain when the next 'interest time' comes.",
 		"card_weapon_position_left": "How much to the left the card on the HUD should be",
 		"atm_hack_time_min": "The minimum time an ATM hack can take",
@@ -405,6 +408,7 @@
 		"atm_fast_amount_6": "The 6th quick-pick option on the atm deposit/withdraw screen",
 		"card_texture_world": "The texture used on the card worldmodel. This will only work on ATMs that use the default card model.",
 		"card_draw_vehicle": "If enabled, the card be drawn in the HUD while the player is in a vehicle. (Why is this a config option. Shouldn't this be disabled all the time?)",
-		"money_format": "How the money symbol should be displayed. 0 will be replaced with the amount, and $ will be replaced with the money symbol"
+		"money_format": "How the money symbol should be displayed. 0 will be replaced with the amount, and $ will be replaced with the money symbol",
+		"account_interest_time_limit": "If a player doesn't use their account for this many days, they'll stop recieving interest"
 	}
 }
