@@ -22,7 +22,7 @@
 			"forever": "forever",
 			"seconds": "seconds",
 			"hours": "hours"
-		},
+		}
 	},
 	"errmsgs": {
 	},
