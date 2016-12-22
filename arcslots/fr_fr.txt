@@ -58,7 +58,7 @@
 			"SysSetting": "%SETTING% à été changé en %VALUE%",
 			"UnSaveSlots": "Les machines à sous ont été retirés de la carte !",
 			"SettingsError": "Erreur d'economie.",
-			"SysReset": "Remise à zéro du système requis! Faites  la commande \ "arcslots reset \" sur la console"
+			"SysReset": "Remise à zéro du système requis! Faites  la commande \"arcslots reset \" sur la console"
 		},
 		"Items": {
 			"SlotMachine": "Machine à sous"
@@ -116,8 +116,8 @@
 		"vault_steal_rate": "Le montant d'argent qu'un joueur peut prendre en une seconde.",
 		"slots_min_bet": "Le nombre minimum d'argent qui peut être misé.",
 		"slots_idle_text": "Texte à afficher lorsque la machine à sous est inactif",
-		"name_long": "Le nom \ "long \" affiché de l'addon.",
-		"name": "Le nom \ "petit \" affiché de l'addon..",
+		"name_long": "Le nom \"long \" affiché de l'addon.",
+		"name": "Le nom \"petit \" affiché de l'addon..",
 		"slots_max_bet": "Le nombre maximum d'argent qui peut être misé",
 		"slots_incr": "Combien le pari doit-il augmenter lorsque le bouton + est pressé ?",
 		"slots_incr_big": "Combien le pari devrait augmenter lorsque le bouton ++ est pressé ?",
@@ -131,7 +131,7 @@
 		"vault_hack_min": "La quantité minimale d'argent qui peut être prise de la chambre forte par le piratage",
 		"vault_hack_time_max": "Le temps maximum nécessaire pour pirater la voûte..",
 		"vault_hack_time_min": "Le temps minimum nécessaire pour pirater la voûte..",
-		"vault_hack_time_stealth_rate": "Réglage de l'ATM Hacker à \ "mode furtif \" va multiplier le temps de piratage par ce montant",
+		"vault_hack_time_stealth_rate": "Réglage de l'ATM Hacker à \"mode furtif \" va multiplier le temps de piratage par ce montant",
 		"vault_hack_time_curve": "Voir aritzcracker.ca/uploads/aritz/atm_hack_time_curve.png",
 		"manager_auth_time": "Le nombre de minutes qu'un gestionnaire de casino recevra des bénéfices après l'authentification",
 		"manager_auth_teams": "Les personnes de ces équipes seront considérées comme des gestionnaires de casinos potentiels"
