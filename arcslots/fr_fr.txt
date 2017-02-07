@@ -71,7 +71,7 @@
 			"TotalFunds": "TOTAL DES FONDS :",
 			"Funds": "FONDS EN COFFRE:",
 			"GettingCash": "Vous avez le droit de recevoir des bénéfices de casino pour le prochain %TIME%.",
-			"WithdrawAmount": "Vous pouvez actuellement retirer : % AMOUNT%",
+			"WithdrawAmount": "Vous pouvez actuellement retirer : %AMOUNT%",
 			"NotGettingCash": "Vous ne receverez actuellement pas de bénéfices de casino.",
 			"PleaseCheckIn": "Please authenticate to start receiving casino profits",
 			"CheckIn": "S'identifier comme un gestionnaire",
@@ -88,7 +88,7 @@
 		"SlotMsgs": {
 			"BadLuck": "Si vous lisez cette lettre, vous avez perdu.",
 			"Wild": "La carte WILD peut remplacer n'importe quel autre symbole!",
-			"Jackpot": "FÉLICITATIONS, VOUS GAGNER LE PRIX ULTIMATE *** VOUS GAGNEZ : % MONTANT%",
+			"Jackpot": "FÉLICITATIONS, VOUS GAGNER LE PRIX ULTIMATE *** VOUS GAGNEZ : %MONTANT%",
 			"Loose": "Vous aurez peut etre de la chance la prochaine fois",
 			"Bet": "Pari",
 			"LooseMock": "HA HA HA PAS AUJOURD'HUI",
