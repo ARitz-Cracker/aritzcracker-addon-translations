@@ -93,7 +93,7 @@
 			"LooseMock": "ХЕХ ЛЕЛ НЕ ТВОЙ ДЕНЬ",
 			"No": "Нет",
 			"MaxPrize": "МАКС ставка: %AMOUNT%",
-			"BetMsg": "Select the amount you wish to bet:",
+			"BetMsg": "Установите свою ставку:",
 			"Yes": "Да",
 			"Lucky": "Ты полн удачи?",
 			"MegaWin": "ПОБЕДИТЕЛЬ ТЫ %AMOUNT%",
@@ -133,6 +133,6 @@
 		"vault_hack_time_stealth_rate": "Установка Хакер устройства \"stealth mode\" будет умножить время хакерство на эту сумму",
 		"vault_hack_time_curve": "Смотри aritzcracker.ca/uploads/aritz/atm_hack_time_curve.png",
 		"manager_auth_time": "Через сколько минут менеджер казино получит прибыль после аутентификации",
-		"manager_auth_teams": "Люди в этих командах будут рассмотрены как потенциальные менеджеры казино"
+		"manager_auth_teams": "Люди в этих рангах будут рассмотрены как потенциальные менеджеры казино"
 	}
 }
