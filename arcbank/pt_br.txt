@@ -23,8 +23,8 @@
 		"18": "Falha ao Baixar. Dados corrompidos.",
 		"19": "Bank account is corrupt",
 		"20": "The account is locked. This is usually caused by the server shutting down while a transaction was in progress.",
-		"21": "The entity you're using does not have access to this operation."
-		"22": "The result from the log search is empty."
+		"21": "The entity you're using does not have access to this operation.",
+		"22": "The result from the log search is empty.",
 		"32": "Uma conta com um nome similar (ou igual) já existe.",
 		"33": "Nome muito longo.",
 		"34": "Nome inválido.",
@@ -173,7 +173,7 @@
 			"MySQL3": "ARCBank irá ativar novamente em 10 segundos.",
 			"MySQL4": "ARCBank falhou em reinicializar. Contate o dono do servidor.",
 			"MySQLCopy": "Copiando todas as contas para o banco de dados do MySQL. Isso pode demorar um pouco...",
-			"MySQLCopyFrom": "Copiando todas as contas do banco de dados do MySQL. O servidor pode congelar por um tempo.",
+			"MySQLCopyFrom": "Copiando todas as contas do banco de dados do MySQL. O servidor pode congelar por um tempo."
 		},
 		"Items": {
 			"Hacker": "Hacker de Terminal Eletrônico",

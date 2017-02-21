@@ -23,8 +23,8 @@
 		"18": "Download fehlgeschlagen. Die Datei ist fehlerhaft.",
 		"19": "Bank account is corrupt",
 		"20": "The account is locked. This is usually caused by the server shutting down while a transaction was in progress.",
-		"21": "The entity you're using does not have access to this operation."
-		"22": "The result from the log search is empty."
+		"21": "The entity you're using does not have access to this operation.",
+		"22": "The result from the log search is empty.",
 		"32": "Es existiert bereits ein Account mit diesem oder ähnlichem Namen.",
 		"33": "Der Accountname ist zu lang.",
 		"34": "Ungültiger Account Name.",
@@ -439,6 +439,6 @@
 		"atm_fast_amount_3": "Die dritte quick-pick Option auf dem einzahlen/abheben Bildschirm des ATMs",
 		"atm_fast_amount_4": "Die vierte quick-pick Option auf dem einzahlen/abheben Bildschirm des ATMs",
 		"atm_fast_amount_5": "Die fünfte quick-pick Option auf dem einzahlen/abheben Bildschirm des ATMs",
-		"atm_fast_amount_6": "Die sechste quick-pick Option auf dem einzahlen/abheben Bildschirm des ATMs",
+		"atm_fast_amount_6": "Die sechste quick-pick Option auf dem einzahlen/abheben Bildschirm des ATMs"
 	}
 }

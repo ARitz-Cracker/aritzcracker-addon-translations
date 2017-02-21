@@ -23,8 +23,8 @@
 		"18": "다운로드 실패. 데이터가 손상되었습니다.",
 		"19": "Bank account is corrupt",
 		"20": "The account is locked. This is usually caused by the server shutting down while a transaction was in progress.",
-		"21": "The entity you're using does not have access to this operation."
-		"22": "The result from the log search is empty."
+		"21": "The entity you're using does not have access to this operation.",
+		"22": "The result from the log search is empty.",
 		"32": "이미 동일하거나 유사한 계좌 이름이 존재합니다.",
 		"33": "계좌 이름이 너무 깁니다.",
 		"34": "잘못된 계좌 이름.",

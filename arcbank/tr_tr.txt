@@ -23,8 +23,8 @@
 		"18": "Indirirken hata olustu. Veriler cakisiyor.",
 		"19": "Banka hesabi bozuk",
 		"20": "Hesap kilitli. Islem gerceklestirilirken sunucu kapanmis olabilir.",
-		"21": "The entity you're using does not have access to this operation."
-		"22": "The result from the log search is empty."
+		"21": "The entity you're using does not have access to this operation.",
+		"22": "The result from the log search is empty.",
 		"32": "Ayni veya benzer isimli bir hesap zaten var.",
 		"33": "Hesap adi cok uzun.",
 		"34": "Gecersiz hesap adi.",

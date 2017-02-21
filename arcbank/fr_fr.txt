@@ -23,8 +23,8 @@
 		"18": "Échec du téléchargement. Les données sont endommagées.",
 		"19": "Bank account is corrupt",
 		"20": "The account is locked. This is usually caused by the server shutting down while a transaction was in progress.",
-		"21": "The entity you're using does not have access to this operation."
-		"22": "The result from the log search is empty."
+		"21": "The entity you're using does not have access to this operation.",
+		"22": "The result from the log search is empty.",
 		"32": "Un compte avec le même nom similaire existe déjà.",
 		"33": "Le nom du compte est trop long.",
 		"34": "Nom de compte invalide.",
@@ -335,6 +335,7 @@
 				"9": "Balance",
 				"10": "Comment"
 			}
+		},
 		"AccountRank": {
 			"0": "Personnel",
 			"1": "Personnel - Basic",
