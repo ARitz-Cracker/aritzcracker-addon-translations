@@ -35,7 +35,7 @@
 		"Notifications": {
 			"AlarmVault": "Vous ne pouvez pas mettre une alarme sans un coffre-fort",
 			"NoMoney": "Vous n'avez pas assez d'argent !",
-			"VaultARCBank": "Le coffre-fort a besoin de l'ARCBANK v1.3.6 + (Version Payant)",
+			"VaultARCBank": "Le coffre-fort a besoin de l'ARCBANK v1.4.0 + (Version Payant)",
 			"VaultOne": "Il ne peut y avoir un coffre-fort",
 			"Pocket": "Peu importe combien de fois vous essayez, vous ne serez pas en mesure de mettre cette chose énorme dans votre poche !"
 		},

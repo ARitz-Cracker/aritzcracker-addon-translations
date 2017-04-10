@@ -35,7 +35,7 @@
 		"Notifications": {
 			"AlarmVault": "Você não pode colocar um alarme sem um cofre",
 			"NoMoney": "Você não tem dinheiro suficiente!",
-			"VaultARCBank": "O cofre precisa do ARCBank v1.3.6+ (versão paga)",
+			"VaultARCBank": "O cofre precisa do ARCBank v1.4.0+ (versão paga)",
 			"VaultOne": "Só pode haver um cofre",
 			"Pocket": "Não importa o quanto você tenta, não vai conseguir colocar essa coisa enorme em seu bolso!"
 		},

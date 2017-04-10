@@ -35,7 +35,7 @@
 		"Notifications": {
 			"AlarmVault": "You cannot spawn an alarm without a vault",
 			"NoMoney": "You do not have enough cash!",
-			"VaultARCBank": "The vault requires ARCBank v1.3.6 or later (the paid version)",
+			"VaultARCBank": "The vault requires ARCBank v1.4.0 or later (the paid version)",
 			"VaultOne": "There can only be one vault",
 			"Pocket": "No matter how hard to try, you can't fit this giant thing in your pants!"
 		},

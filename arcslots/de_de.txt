@@ -35,7 +35,7 @@
 		"Notifications": {
 			"AlarmVault": "Du kannst keinen Alarm ohne einen Tresor spawnen.",
 			"NoMoney": "Du hast nicht genug Geld!",
-			"VaultARCBank": "Der Tresor benötigt ARCBank v1.3.6 oder höher. (Die bezahlte Version)",
+			"VaultARCBank": "Der Tresor benötigt ARCBank v1.4.0 oder höher. (Die bezahlte Version)",
 			"VaultOne": "Es kann nur einen Tresor geben.",
 			"Pocket": "Egal wie sehr du es versuchst aber er passt nicht in deine Hose!"
 		},
