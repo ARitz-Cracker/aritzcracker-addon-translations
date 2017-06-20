@@ -126,7 +126,7 @@
 			"ATMCloseSound": "Couper le son de l'ATM",
 			"BtnPrsClnt": "Appuyez sur le bouton du son (côté client)",
 			"BtnPrsServ": "Appuyez sur le bouton du son (côté serveur)",
-			"BeepSound": "Demande le som de l'argent",
+			"BeepSound": "Son de demande d'argent",
 			"ErrSound": "Son d'erreur",
 			"BeepNoSound": "Son sélectionné invalide",
 			"ScreenPlacement": "Placement de l'écran",
@@ -248,7 +248,7 @@
 			"Account": "Quel compte voulez-vous utiliser?",
 			"AccountPay": "Avec quel compte voulez-vous payer?",
 			"Label": "Quelle est l'étiquette de cette transaction?",
-			"Charge": "Combien voulez-vous demander?",
+			"Charge": "Combien souhaitez-vous demander?",
 			"NoAccount": "Vous ne disposez pas d'un compte bancaire personnel!"
 		},
 		"Hack": {
