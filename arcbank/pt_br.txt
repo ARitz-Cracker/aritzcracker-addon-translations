@@ -401,6 +401,7 @@
 		"atm_holo_text": "O texto acima do Terminal",
 		"interest_perpetual_debt": "Se um jogador está devendo, este valor aumentará com o juros.",
 		"autoban_time": "Um jogador tal como 1337 xXNOSCOPZXx h4x0r será banido por essa quantidade de tempo ao tentar quebrar o addon.",
+				"account_corruption_check": "Checks and corrects corrupted accounts on startup. (Non-MySQL systems only) This may take a long time if you have a lot of accounts, so you should only enable if players are reporting corrupt accounts.",
 		"account_debt_limit": "O quanto um jogador pode dever.",
 		"account_starting_cash": "O saldo inicial de um jogador.",
 		"account_group_limit": "O máximo de contas em grupo por jogador",

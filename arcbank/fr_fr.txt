@@ -385,6 +385,7 @@
 		"atm_holo_text": "Le texte flottant au-dessus de l'ATM",
 		"interest_perpetual_debt": "Si un joueur à une dette, il ne gagnera plus de dette lors de leur taux d'intérêt.",
 		"autoban_time": "A 1337 xXNOSCOPZXx h4x0r sera banni pour ce nombre de minutes pour avoir utiliser une exploits.",
+		"account_corruption_check": "Checks and corrects corrupted accounts on startup. (Non-MySQL systems only) This may take a long time if you have a lot of accounts, so you should only enable if players are reporting corrupt accounts.",
 		"account_debt_limit": "Combien en dessous de 0 un compte peut obtenir",
 		"account_starting_cash": "Les joueurs commenceront avec cette somme d'argent quand ils ouvriront un compte bancaire.",
 		"account_group_limit": "Limite de groupe qu'un joueur peut créer.",

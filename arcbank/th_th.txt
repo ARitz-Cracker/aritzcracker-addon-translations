@@ -401,6 +401,7 @@
 		"atm_holo_text": "ข้อความในป้ายเอทีเอ็ม",
 		"interest_perpetual_debt": "หากผู้เล่นอยู่ในตราสารหนี้พวกเขาจะได้รับหนี้มากขึ้นในอัตราดอกเบี้ยของพวกเขา",
 		"autoban_time": "1337 xXNOSCOPZXx h4x0r จะถูกแบนเป็นเวลาหลายนาทีสำหรับการคิดถึงการใช้ประโยชน์",
+				"account_corruption_check": "Checks and corrects corrupted accounts on startup. (Non-MySQL systems only) This may take a long time if you have a lot of accounts, so you should only enable if players are reporting corrupt accounts.",
 		"account_debt_limit": "จำนวนที่ต่ำกว่า 0 บัญชีจะได้รับ",
 		"account_starting_cash": "ผู้เล่นจะเริ่มต้นด้วยจำนวนเงินนี้เมื่อเปิดบัญชีธนาคาร",
 		"account_group_limit": "ผู้เล่นสามารถสร้างบัญชีกลุ่มนี้ได้หลายบัญชีเท่านั้น",

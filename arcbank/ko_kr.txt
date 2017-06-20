@@ -401,6 +401,7 @@
 		"atm_holo_text": "ATM 표지 문자",
 		"interest_perpetual_debt": "플레이어가 빚이 있을 경우, 이자시간에 더 많은 빚을 지게됩니다.",
 		"autoban_time": "ARCBank는 뛰어난 기술력덕분에 놀랍게도 누군가가 서버를 해킹하려는 '생각'만 해도 감지하고 차단합니다! 이 설정은 그 해커를 차단(밴)할 시간(분)을 정합니다.",
+		"account_corruption_check": "Checks and corrects corrupted accounts on startup. (Non-MySQL systems only) This may take a long time if you have a lot of accounts, so you should only enable if players are reporting corrupt accounts.",
 		"account_debt_limit": "대출 한도",
 		"account_starting_cash": "은행 계좌를 만들었을 때 지급할 최초 금액",
 		"account_group_limit": "플레이어가 만들 수 있는 최대 그룹계좌 수",
