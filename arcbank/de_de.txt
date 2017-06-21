@@ -437,7 +437,7 @@
 		"moderators": "Liste von Spiel-Rängen die das admin_gui, transaction_logs, accounts sehen können, aber unfähig sind, Adminkommands oder Konfiguration zu benutzen.",
 		"moderators_read_only": "Wenn aktiviert, dann werden Spieler in der \"moderators\"-Gruppe keine Accountinformationen bearbeiten können.",
 		"atm_fast_amount_1": "Die erste Quick-Pick-Option auf dem Einzahlen/Abheben-Bildschirm des ATMs.",
-		"atm_fast_amount_2": "Die zweite Quick-Pick-Option auf dem Einzahlen/Abheben-Bildschirm des ATMs.,
+		"atm_fast_amount_2": "Die zweite Quick-Pick-Option auf dem Einzahlen/Abheben-Bildschirm des ATMs.",
 		"atm_fast_amount_3": "Die dritte Quick-Pick-Option auf dem Einzahlen/Abheben-Bildschirm des ATMs.",
 		"atm_fast_amount_4": "Die vierte Quick-Pick-Option auf dem Einzahlen/Abheben-Bildschirm des ATMs.",
 		"atm_fast_amount_5": "Die fünfte Quick-Pick-Option auf dem Einzahlen/Abheben-Bildschirm des ATMs.",
