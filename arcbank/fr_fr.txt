@@ -337,6 +337,22 @@
 				"10": "Comment"
 			}
 		},
+		"AccountTransactions": {
+			"1": "Cash Withdraw/Deposit",
+			"2": "Transfer",
+			"4": "Interest received",
+			"8": "Account upgrades",
+			"16": "Account downgrades",
+			"24": "Account upgrades/downgrades",
+			"32": "Group member added",
+			"64": "Group member removed",
+			"96": "Group members added/removed",
+			"128": "Account creation",
+			"256": "Account deletion",
+			"384": "Account creation/deletion",
+			"512": "Salary",
+			"65535": "All transactions"
+		},
 		"AccountRank": {
 			"0": "Personnel",
 			"1": "Personnel - Basic",
