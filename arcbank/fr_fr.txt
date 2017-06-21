@@ -295,7 +295,7 @@
 			"CardAir": "L'air ne dispose pas d'un emplacement de carte d'ATM",
 			"DepositATM": "Utilisez l'ouverture de l'ATM pour déposer de l'argent. (Appuyez sur E)",
 			"WithdrawATM": "Utilisez l'argent pour le ramasser. (Appuyez sur E)",
-			"F4MenuAsk": "Would you like to purchase this item using your ARCBank account?"
+			"F4MenuAsk": "Voulez vous achetez ceci avec votre compte bancaire?"
 		},
 		"AdminMenu": {
 			"AccountOwner": "Account owner",
