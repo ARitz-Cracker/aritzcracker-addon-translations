@@ -402,6 +402,7 @@
 		"atm_holo_text": "Der Text über dem ATM",
 		"interest_perpetual_debt": "Wenn der Spieler schon im Minus ist, kriegt er mehr Minus im nächsten Gehalt.",
 		"autoban_time": "Ein 1337 xXNOSCOPZXx h4x0r wird für diese Zeit gebannt weil er nur darüber nachgedacht hat Exploits auszunutzen (Minuten).",
+		account_corruption_check": "Checks and corrects corrupted accounts on startup (Non-MySQL systems only) This may take a long time if you have a lot of accounts, so you should only enable if players are reporting corrupt accounts.",
 		"account_debt_limit": "Das Minus Limit eines Kontos",
 		"account_starting_cash": "Wie viel Geld der Spieler hat beim Eröffnen eines Accounts.",
 		"account_group_limit": "Wie viele Gruppenkonten kann man maximal haben?",
