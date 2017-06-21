@@ -294,7 +294,8 @@
 			"CardNo": "당신이 보고있는 것은 ATM 슬롯이 없습니다",
 			"CardAir": "공기는 ATM 슬롯이 없어요",
 			"DepositATM": "ATM의 입에 E를 눌러 돈을 입금합니다.",
-			"WithdrawATM": "돈에 E를 눌러 챙깁니다."
+			"WithdrawATM": "돈에 E를 눌러 챙깁니다.",
+			"F4MenuAsk": "Would you like to purchase this item using your ARCBank account?"
 		},
 		"AdminMenu": {
 			"AccountOwner": "Account owner",
@@ -440,6 +441,7 @@
 		"atm_fast_amount_3": "ATM 인출/예금 화면의 세 번째 빠른 선택 옵션",
 		"atm_fast_amount_4": "ATM 인출/예금 화면의 네 번째 빠른 선택 옵션",
 		"atm_fast_amount_5": "ATM 인출/예금 화면의 다섯 번째 빠른 선택 옵션",
-		"atm_fast_amount_6": "ATM 인출/예금 화면의 여섯 번째 빠른 선택 옵션"
+		"atm_fast_amount_6": "ATM 인출/예금 화면의 여섯 번째 빠른 선택 옵션",
+		"darkrp_f4_menu": "If enabled, people who purchase items via the DarkRP F4 Menu will have the option to pay with their ARCBank account"
 	}
 }

@@ -294,7 +294,8 @@
 			"CardNo": "Dies hat keinen Kreditkartenschlitz",
 			"CardAir": "Die Luft hat keinen Kreditkartenschlitz",
 			"DepositATM": "Nutze die Öffnung des ATMs, um  Geld einzuzahlen. (Drücke E)",
-			"WithdrawATM": "Nutze die Öffnung des ATMs, um das Geld zu entnehmen. (Drücke E)"
+			"WithdrawATM": "Nutze die Öffnung des ATMs, um das Geld zu entnehmen. (Drücke E)",
+			"F4MenuAsk": "Would you like to purchase this item using your ARCBank account?"
 		},
 		"AdminMenu": {
 			"AccountOwner": "Account owner",
@@ -439,6 +440,7 @@
 		"atm_fast_amount_3": "Die dritte quick-pick Option auf dem einzahlen/abheben Bildschirm des ATMs",
 		"atm_fast_amount_4": "Die vierte quick-pick Option auf dem einzahlen/abheben Bildschirm des ATMs",
 		"atm_fast_amount_5": "Die fünfte quick-pick Option auf dem einzahlen/abheben Bildschirm des ATMs",
-		"atm_fast_amount_6": "Die sechste quick-pick Option auf dem einzahlen/abheben Bildschirm des ATMs"
+		"atm_fast_amount_6": "Die sechste quick-pick Option auf dem einzahlen/abheben Bildschirm des ATMs",
+		"darkrp_f4_menu": "If enabled, people who purchase items via the DarkRP F4 Menu will have the option to pay with their ARCBank account"
 	}
 }

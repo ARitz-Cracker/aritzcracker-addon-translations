@@ -294,7 +294,8 @@
 			"CardNo": "Дело в том, вы смотрите на не имеет слот банкомата",
 			"CardAir": "Воздух не имеет слот банкомата",
 			"DepositATM": "Используйте рот банкомата, чтобы внести деньги. (Нажмите E)",
-			"WithdrawATM": "Используйте деньги, чтобы их забрать (Нажмите E)"
+			"WithdrawATM": "Используйте деньги, чтобы их забрать (Нажмите E)",
+			"F4MenuAsk": "Would you like to purchase this item using your ARCBank account?"
 		},
 		"AdminMenu": {
 			"AccountOwner": "Account owner",
@@ -440,6 +441,7 @@
 		"atm_fast_amount_3": "The 3rd quick-pick option on the atm deposit/withdraw screen",
 		"atm_fast_amount_4": "The 4th quick-pick option on the atm deposit/withdraw screen",
 		"atm_fast_amount_5": "The 5th quick-pick option on the atm deposit/withdraw screen",
-		"atm_fast_amount_6": "The 6th quick-pick option on the atm deposit/withdraw screen"
+		"atm_fast_amount_6": "The 6th quick-pick option on the atm deposit/withdraw screen",
+		"darkrp_f4_menu": "If enabled, people who purchase items via the DarkRP F4 Menu will have the option to pay with their ARCBank account"
 	}
 }

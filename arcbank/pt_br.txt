@@ -294,7 +294,8 @@
 			"CardNo": "O que você está olhando é um Terminal.",
 			"CardAir": "O ar não é um Terminal.",
 			"DepositATM": "Use a boca do Terminal para depósitar dinheiro. (Pressione E)",
-			"WithdrawATM": "Aperte E no dinheiro para pega-ló."
+			"WithdrawATM": "Aperte E no dinheiro para pega-ló.",
+			"F4MenuAsk": "Would you like to purchase this item using your ARCBank account?"
 		},
 		"AdminMenu": {
 			"AccountOwner": "Account owner",
@@ -440,6 +441,7 @@
 		"atm_fast_amount_3": "The 3rd quick-pick option on the atm deposit/withdraw screen",
 		"atm_fast_amount_4": "The 4th quick-pick option on the atm deposit/withdraw screen",
 		"atm_fast_amount_5": "The 5th quick-pick option on the atm deposit/withdraw screen",
-		"atm_fast_amount_6": "The 6th quick-pick option on the atm deposit/withdraw screen"
+		"atm_fast_amount_6": "The 6th quick-pick option on the atm deposit/withdraw screen",
+		"darkrp_f4_menu": "If enabled, people who purchase items via the DarkRP F4 Menu will have the option to pay with their ARCBank account"
 	}
 }

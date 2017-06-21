@@ -294,7 +294,8 @@
 			"CardNo": "La chose que vous regardez n'a pas une fente de carte d'ATM",
 			"CardAir": "L'air ne dispose pas d'un emplacement de carte d'ATM",
 			"DepositATM": "Utilisez l'ouverture de l'ATM pour déposer de l'argent. (Appuyez sur E)",
-			"WithdrawATM": "Utilisez l'argent pour le ramasser. (Appuyez sur E)"
+			"WithdrawATM": "Utilisez l'argent pour le ramasser. (Appuyez sur E)",
+			"F4MenuAsk": "Would you like to purchase this item using your ARCBank account?"
 		},
 		"AdminMenu": {
 			"AccountOwner": "Account owner",
@@ -424,6 +425,7 @@
 		"atm_fast_amount_3": "The 3rd quick-pick option on the atm deposit/withdraw screen",
 		"atm_fast_amount_4": "The 4th quick-pick option on the atm deposit/withdraw screen",
 		"atm_fast_amount_5": "The 5th quick-pick option on the atm deposit/withdraw screen",
-		"atm_fast_amount_6": "The 6th quick-pick option on the atm deposit/withdraw screen"
+		"atm_fast_amount_6": "The 6th quick-pick option on the atm deposit/withdraw screen",
+		"darkrp_f4_menu": "If enabled, people who purchase items via the DarkRP F4 Menu will have the option to pay with their ARCBank account"
 	}
 }

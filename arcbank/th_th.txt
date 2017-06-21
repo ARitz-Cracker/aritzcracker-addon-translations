@@ -294,7 +294,8 @@
 			"CardNo": "สิ่งที่คุณกำลังมองไม่มีช่องเสียบบัตร",
 			"CardAir": "อากาศไม่มีช่องเสียบบัตร",
 			"DepositATM": "ใช้ปากของตู้เอทีเอ็มเพื่อฝากเงิน (กด E)",
-			"WithdrawATM": "ใช้เงินเพื่อรับมัน (กด E)"
+			"WithdrawATM": "ใช้เงินเพื่อรับมัน (กด E)",
+			"F4MenuAsk": "Would you like to purchase this item using your ARCBank account?"
 		},
 		"AdminMenu": {
 			"AccountOwner": "เจ้าของบัญชี",
@@ -401,13 +402,6 @@
 		"atm_holo_text": "ข้อความในป้ายเอทีเอ็ม",
 		"interest_perpetual_debt": "หากผู้เล่นอยู่ในตราสารหนี้พวกเขาจะได้รับหนี้มากขึ้นในอัตราดอกเบี้ยของพวกเขา",
 		"autoban_time": "1337 xXNOSCOPZXx h4x0r จะถูกแบนเป็นเวลาหลายนาทีสำหรับการคิดถึงการใช้ประโยชน์",
-		"account_debt_limit": "จำนวนที่ต่ำกว่า 0 บัญชีจะได้รับ",
-		"atm_holo": "เครื่องหมายลอยอยู่เหนือเอทีเอ็ม",
-		"atm_holo_flicker": "ตู้เอทีเอ็มควรจะกะพริบไหม?",
-		"atm_holo_rotate": "ควรหมุนสัญญาณเอทีเอ็มไหม?",
-		"atm_holo_text": "ป้ายข้อความลอยบนเอทีเอ็ม",
-		"interest_perpetual_debt": "หากผู้เล่นอยู่เป็นหนี้ พวกเขาจะได้รับหนี้มากขึ้นแทนอัตราดอกเบี้ยของพวกเขา",
-		"autoban_time": "1337 xXNOSCOPZXx h4x0r จะถูกแบนเป็นเวลาหลายนาทีสำหรับการใช้ประโยชน์จะความผิดพลาด",
 		"account_corruption_check": "Checks and corrects corrupted accounts on startup. (Non-MySQL systems only) This may take a long time if you have a lot of accounts, so you should only enable if players are reporting corrupt accounts.",
 		"account_debt_limit": "จำนวนต่ำสุดที่จะเริ่มฝากเงินได้",
 		"account_starting_cash": "ผู้เล่นจะเริ่มต้นด้วยจำนวนเงินนี้เมื่อเปิดบัญชีธนาคาร",
@@ -447,6 +441,7 @@
 		"atm_fast_amount_3": "ตัวเลือกด่วนที่ 3 บนหน้าจอการฝาก/ถอนเงินอัตโนมัติ",
 		"atm_fast_amount_4": "ตัวเลือกด่วนที่ 4 บนหน้าจอการฝาก/ถอนเงินอัตโนมัติ",
 		"atm_fast_amount_5": "ตัวเลือกด่วนที่ 5 บนหน้าจอการฝาก/ถอนเงินอัตโนมัติ",
-		"atm_fast_amount_6": "ตัวเลือกด่วนที่ 6 บนหน้าจอการฝาก/ถอนเงินอัตโนมัติ"
+		"atm_fast_amount_6": "ตัวเลือกด่วนที่ 6 บนหน้าจอการฝาก/ถอนเงินอัตโนมัติ",
+		"darkrp_f4_menu": "If enabled, people who purchase items via the DarkRP F4 Menu will have the option to pay with their ARCBank account"
 	}
 }
