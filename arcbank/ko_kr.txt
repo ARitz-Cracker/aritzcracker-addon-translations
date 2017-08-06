@@ -322,6 +322,7 @@
 			"StartTime": "시작 시각",
 			"InvalidStartTime": "계좌 거래 시각이 올바른 포맷으로 기록되어 있지 않습니다.",
 			"OpenATM": "ATM에서 계좌 열기",
+			"Unlock": "Unlock account",
 			"NoATM": "ATM에 카드를 넣어야 계좌를 볼 수 있습니다.",
 			"LogsAccount": "계좌 1: (모든 거래를 보기 위해서 공란으로 남겨주십시오)",
 			"Logs":{
@@ -367,7 +368,10 @@
 			"atm_respawn": "고정된 ATM 리스폰",
 			"atm_spawn": "당신이 보고있는 곳에 ATM 생성",
 			"atm_save": "저장하고 모든 ATM 고정",
-			"atm_unsave": "저장해제하고 모든 ATM 고정 해제"
+			"atm_unsave": "저장해제하고 모든 ATM 고정 해제",
+			"reset_settings": "Set settings to default",
+			"purge_accounts": "Delete all accounts",
+			"purge_transactions": "Reset transaction log"
 		}
 	},
 	"settingsdesc": {
@@ -406,6 +410,7 @@
 		"account_debt_limit": "대출 한도",
 		"account_starting_cash": "은행 계좌를 만들었을 때 지급할 최초 금액",
 		"account_group_limit": "플레이어가 만들 수 있는 최대 그룹계좌 수",
+		"account_group_member_limit": "A group can only have this amount of members (Any value above 128 may cause errors)",
 		"death_money_remove": "플레이어가 죽을 때 제거될 돈의 %.",
 		"death_money_drop": "플레이어가 죽으면 스폰될 돈의 %. (이것은 항상 death_money_remove 이하이어야 함)",
 		"death_money_drop_model": "떨어진 돈의 모델",

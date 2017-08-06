@@ -322,6 +322,7 @@
 			"StartTime": "เวลาเริ่มต้น",
 			"InvalidStartTime": "เวลาเริ่มต้นของธุรกรรมมีรูปแบบที่ไม่ถูกต้อง",
 			"OpenATM": "ดูบัญชีในเอทีเอ็ม",
+			"Unlock": "Unlock account",
 			"NoATM": "คุณต้องใส่บัตรของคุณในตู้เอทีเอ็มเพื่อทำสิ่งนี้",
 			"LogsAccount": "บัญชี 1: (เว้นว่างไว้สำหรับธุรกรรมทั้งหมด)",
 			"Logs":{
@@ -367,7 +368,10 @@
 			"atm_save": "บันทึกตู้เอทีเอ็มทั้งหมด",
 			"atm_unsave": "ลบบันทึกตู้เอทีเอ็มทั้งหมด",
 			"atm_respawn": "วางตู้เอทีเอ็มใหม่ทั้งหมด",
-			"atm_spawn": "วางตู้เอทีเอ็มตรงที่คุณกำลังมอง"
+			"atm_spawn": "วางตู้เอทีเอ็มตรงที่คุณกำลังมอง",
+			"reset_settings": "Set settings to default",
+			"purge_accounts": "Delete all accounts",
+			"purge_transactions": "Reset transaction log"
 		}
 	},
 	"settingsdesc": {
@@ -406,6 +410,7 @@
 		"account_debt_limit": "จำนวนต่ำสุดที่จะเริ่มฝากเงินได้",
 		"account_starting_cash": "ผู้เล่นจะเริ่มต้นด้วยจำนวนเงินนี้เมื่อเปิดบัญชีธนาคาร",
 		"account_group_limit": "ผู้เล่นสามารถสร้างบัญชีกลุ่มนี้ได้กี่บัญชี?",
+		"account_group_member_limit": "A group can only have this amount of members (Any value above 128 may cause errors)",
 		"death_money_remove": "% ของเงินที่ควรจะเอาออกจากผู้เล่นเมื่อตาย ",
 		"death_money_drop": "% ของเงินที่ควรจะเกิดขึ้นเมื่อผู้เล่นเสียชีวิต (ค่านี้ควรต่ำกว่าเส death_money_remove)",
 		"death_money_drop_model": "โมเดลของเงินที่ตก",

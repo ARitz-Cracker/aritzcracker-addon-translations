@@ -322,6 +322,7 @@
 			"StartTime": "Starting time",
 			"InvalidStartTime": "The transaction starting time is not in the correct format.",
 			"OpenATM": "View account on ATM",
+			"Unlock": "Unlock account",
 			"NoATM": "You must insert your card in an ATM to do this",
 			"LogsAccount": "Account 1: (Leave blank for all transactions)",
 			"Logs":{
@@ -367,7 +368,10 @@
 			"atm_respawn": "Создание замороженных банкоматов",
 			"atm_spawn": "Создать банкомат там куда вы смотрите",
 			"atm_save": "Сохранить и заморозить все банкоматы",
-			"atm_unsave": "Не сохранять и разморозить банкоматы"
+			"atm_unsave": "Не сохранять и разморозить банкоматы",
+			"reset_settings": "Set settings to default",
+			"purge_accounts": "Delete all accounts",
+			"purge_transactions": "Reset transaction log"
 		}
 	},
 	"settingsdesc": {
@@ -406,6 +410,7 @@
 		"account_debt_limit": "How much below 0 an account can get",
 		"account_starting_cash": "Players will start with this amount of money when they open a bank account.",
 		"account_group_limit": "A player can only create this many group accounts",
+		"account_group_member_limit": "A group can only have this amount of members (Any value above 128 may cause errors)",
 		"death_money_remove": "The % of money that should be removed from the player when the die.",
 		"death_money_drop": "The % of money that should spawned where the player dies. (This should always be lower than death_money_remove)",
 		"death_money_drop_model": "The model of the dropped money",

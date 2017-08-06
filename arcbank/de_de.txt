@@ -322,6 +322,7 @@
 			"StartTime": "Start-Zeit",
 			"InvalidStartTime": "Die Transaktionsstart-Zeit ist in einem ungültigen Format.",
 			"OpenATM": "Account im ATM begutachten",
+			"Unlock": "Unlock account",
 			"NoATM": "Du musst deine Kreditkarte in einen ATM stecken, um dies zu tun.",
 			"LogsAccount": "Account 1: (Für allte Transaktionen blank lassen)",
 			"Logs":{
@@ -367,7 +368,10 @@
 			"atm_save": "Speichere und friere alle ATMs ein",
 			"atm_unsave": "Entspeichere und entfriere alle ATMs",
 			"atm_respawn": "Respawne eingefrorene ATMs",
-			"atm_spawn": "Spawne einen ATM dort, wo du gerade hinschaust"
+			"atm_spawn": "Spawne einen ATM dort, wo du gerade hinschaust",
+			"reset_settings": "Set settings to default",
+			"purge_accounts": "Delete all accounts",
+			"purge_transactions": "Reset transaction log"
 		}
 	},
 	"settingsdesc": {
@@ -406,6 +410,7 @@
 		"account_debt_limit": "Das Minus-Limit eines Kontos",
 		"account_starting_cash": "Wie viel Geld der Spieler hat beim Eröffnen eines Accounts.",
 		"account_group_limit": "Wie viele Gruppenkonten kann man maximal haben?",
+		"account_group_member_limit": "A group can only have this amount of members (Any value above 128 may cause errors)",
 		"death_money_remove": "Der %-Satz des Geldes der von dem Spieler entfernt werden soll sobald er stirbt.",
 		"death_money_drop": "Der %-Satz des Geldes der an dem Todesort des Spielers gespawnt werden soll (Das sollte immer niedriger sein als death_money_remove)",
 		"death_money_drop_model": "Das Modell des fallengelassenen Geldes",
