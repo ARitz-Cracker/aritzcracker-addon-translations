@@ -19,12 +19,12 @@
 		"14": "Échec du téléchargement. Erreur de mauvaise communication.",
 		"15": "Le serveur a pris trop de temps pour envoyer les données.",
 		"16": "Echec de l'écriture de la base de données.",
-		"17": "You have attempted to use an exploit.",
+		"17": "vous avez essayer d'utiliser un exploit.",
 		"18": "Échec du téléchargement. Les données sont endommagées.",
-		"19": "Bank account is corrupt",
-		"20": "The account is locked. This is usually caused by the server shutting down while a transaction was in progress.",
+		"19": "Votre compte est endommagé",
+		"20": "Votre compte est bloqué. Cela arrive généralement quand le serveur s'arrête et que vous faites une transaction.",
 		"21": "The entity you're using does not have access to this operation.",
-		"22": "The result from the log search is empty.",
+		"22": "Le résultat de votre recherche dans les logs est vide.",
 		"32": "Un compte avec le même nom similaire existe déjà.",
 		"33": "Le nom du compte est trop long.",
 		"34": "Nom de compte invalide.",
@@ -40,9 +40,9 @@
 		"LogMsgs": {
 			"Upgraded": "Account upgraded",
 			"Downgraded": "Account downgraded",
-			"Created": "Account created",
-			"Deleted": "Account deleted",
-			"Salary":"Salary"
+			"Created": "Compte créé",
+			"Deleted": "Compte supprimé",
+			"Salary":"Salaire"
 		},
 		"ATMCreator": {
 			"NoName": "Votre ATM personnalisé a besoin d'un nom.",
@@ -155,8 +155,8 @@
 		"CommandOutput": {
 			"SysReset": "La réinitialisation du système est requise!",
 			"SysSetting": "%SETTING% a été modifié pour %VALUE%",
-			"AccountNotLocked": "The account was not locked.",
-			"AccountNotSpecified": "You must specify the account",
+			"AccountNotLocked": "Le compte n'est pas bloqué.",
+			"AccountNotSpecified": "Vous devez spécifier un compte",
 			"AdminCommand": "Vous devez être l'un de ces rangs pour utiliser cette commande: %RANKS%",
 			"SettingsSaved": "Les paramètres ont été sauvegardés!",
 			"SettingsError": "Enregistrement des paramètres d'erreur.",
@@ -237,7 +237,7 @@
 			"CreateGroupAccount": "*Créer un compte Groupe",
 			"PersonalAccount": "*Compte personnel",
 			"OfflinePlayer": "Joueur hors ligne",
-			"EnterPlayer": "Please enter the player's card number"
+			"EnterPlayer": "Silvouplez entrez le numéro de carte du joueur"
 		},
 		"CardMsgs": {
 			"NoOwner": "Aucun propriétaire!",
