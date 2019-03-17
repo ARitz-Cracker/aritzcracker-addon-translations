@@ -1,6 +1,6 @@
 {
 	"errmsgs": {
-		"-2": "загрузка...",
+		"-2": "Загрузка...",
 		"-1": "Операция Прервана",
 		"0": "Успешно завершено",
 		"1": "Такой аккаунт не существует!",
@@ -45,7 +45,7 @@
 			"Salary":"Salary"
 		},
 		"ATMCreator": {
-			"NoName": "YПользовательские банкомату нужно имя.",
+			"NoName": "Пользовательские банкомату нужно имя.",
 			"InUse": "Создатель банкомата уже используется!",
 			"Invalid": "Указанный пользовательский файл банкоматов не существует, а указанная модель не подходит.",
 			"Options": "Это вариант #%OPTION% (Кнопка #%BUTTON%)",
@@ -100,7 +100,7 @@
 			"AnimLen": "Длина Анимации:",
 			"UseModel": "Использовать модели (включает параметры ниже)",
 			"MoneyModel": "Модели денег",
-			"CardModel": "МОдель карты:",
+			"CardModel": "Модель карты:",
 			"DepostStartSound": "Проиграть звук депозита (Нажмите здесь, чтобы изменить звук)",
 			"PauseSeconds": "Пауза на следующее количество секунд",
 			"PauseSecondsShort": "Пауза (в секундах):",
@@ -327,32 +327,32 @@
 			"LogsAccount": "Account 1: (Leave blank for all transactions)",
 			"Logs":{
 				"1": "Transaction ID",
-				"2": "Timestamp",
-				"3": "Type",
-				"4": "Account 1",
-				"5": "Account 2",
-				"6": "User 1",
-				"7": "User 2",
-				"8": "Credit/Debit",
-				"9": "Balance",
-				"10": "Comment"
+				"2": "Время",
+				"3": "Тип",
+				"4": "Счёт 1",
+				"5": "Счёт 2",
+				"6": "Пользователь 1",
+				"7": "Пользователь 2",
+				"8": "Кредит/Дебет",
+				"9": "Баланс",
+				"10": "Комментарий"
 			}
 		},
 		"AccountTransactions": {
-			"1": "Cash Withdraw/Deposit",
-			"2": "Transfer",
-			"4": "Interest received",
-			"8": "Account upgrades",
-			"16": "Account downgrades",
-			"24": "Account upgrades/downgrades",
-			"32": "Group member added",
-			"64": "Group member removed",
-			"96": "Group members added/removed",
-			"128": "Account creation",
-			"256": "Account deletion",
-			"384": "Account creation/deletion",
-			"512": "Salary",
-			"65535": "All transactions"
+			"1": "Снятие/Внесение Наличных",
+			"2": "Трансфер",
+			"4": "Проценты получены",
+			"8": "Улучшение Счёта",
+			"16": "Понижение Счёта",
+			"24": "Улучшения/Понижение Счёта",
+			"32": "Член группы добавлен",
+			"64": "Член группы удален",
+			"96": "Член группы удалён/добавлен",
+			"128": "Создание Счёта",
+			"256": "Удаление Счёта",
+			"384": "Добавление/Удаление Счёта",
+			"512": "Зарплата",
+			"65535": "Все транкзакции"
 		},
 		"AccountRank": {
 			"0": "Personal",
@@ -369,8 +369,8 @@
 			"atm_spawn": "Создать банкомат там куда вы смотрите",
 			"atm_save": "Сохранить и заморозить все банкоматы",
 			"atm_unsave": "Не сохранять и разморозить банкоматы",
-			"reset_settings": "Set settings to default",
-			"purge_accounts": "Delete all accounts",
+			"reset_settings": "Восстановление настроек",
+			"purge_accounts": "Удалить все счета",
 			"purge_transactions": "Reset transaction log"
 		}
 	},
