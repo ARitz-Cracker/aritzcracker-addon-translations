@@ -73,7 +73,7 @@
 			"GettingCash": "Du erhälst die Casino Einnahmen für die nächsten %TIME%.",
 			"WithdrawAmount": "Du kannst zurzeit %AMOUNT% abheben",
 			"NotGettingCash": "Du erhälst zurzeit keine Casino Einnahmen.",
-			"PleaseCheckIn": "Please authenticate to start receiving casino profits",
+			"PleaseCheckIn": "Bitte authentifiziere dich um Casino Einnahmen zu erhalten.",
 			"CheckIn": "Als Manager authentifizieren",
 			"Exit": "Verlassen",
 			"WithdrawCash": "Einnahmen als Bargeld entnehmen",
@@ -83,7 +83,7 @@
 			"NotAuthed": "Du bist nicht authentifiziert",
 			"MaxManagers": "Es gibt bereits zuviele Casino Manager",
 			"WhichAccount": "Auf welches Konto sollen die Einnahmen überwiesen werden?",
-			"Robbed": "Der Tresor wurde ausgeraubt währendessen du im Dienst warst.Du darfst dich nicht als Manager authentifizieren bevor deine vorherige Authentifikation ausläuft oder du die gestohlenen Einnahmen wiedergeholt werden."
+			"Robbed": "Der Tresor wurde ausgeraubt währendessen du im Dienst warst. Du darfst dich nicht als Manager authentifizieren bevor deine vorherige Authentifikation ausläuft oder du die gestohlenen Einnahmen wiedergeholt werden."
 		},
 		"SlotMsgs": {
 			"BadLuck": "Wenn du die Broke-Card bekommst, verlierst du!",
