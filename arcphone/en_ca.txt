@@ -1,0 +1,96 @@
+{
+	"msgs": {
+		"PhoneCases": {
+			"0": "Black",
+			"1": "Orange",
+			"2": "Yellow",
+			"3": "Lime",
+			"4": "Bright Green",
+			"5": "Green",
+			"6": "Aquamarine",
+			"7": "Cyan",
+			"8": "Bleu de France",
+			"9": "Blue",
+			"10": "Violet",
+			"11": "Magenta",
+			"12": "Red",
+			"13": "Gray"
+		},
+		"Items": {
+			"Phone": "Phone"
+		},
+		"CommandOutput": {
+			"SysReset": "System reset required!",
+			"SysSetting": "%SETTING% has been changed to %VALUE%",
+			"admin": "You must be an admin to use this command!",
+			"superadmin": "You must be an superadmin to use this command!",
+			"SettingsSaved": "Settings have been saved!",
+			"SettingsError": "Error saving settings.",
+			"ResetYes": "System resetsdf!",
+			"ResetNo": "Error. Check server console for details. Or look at the latest system log located in garrysmod/data/_arcslots on the server."
+		},
+		"AdminMenu": {
+			"Commands": "Commands",
+			"Remove": "Remove",
+			"Add": "Add",
+			"Description": "Description:",
+			"Enable": "Enable",
+			"Settings": "Settings",
+			"ChooseSetting": "Choose setting",
+			"SaveSettings": "Save settings"
+		},
+		"Commands": {
+			"antenna_save": "Save and freeze all antennas",
+			"antenna_unsave": "Unsave and unfreeze all antennas",
+			"antenna_respawn": "Respawn frozen antennas",
+			"antenna_spawn": "Spawn an antenna where you're looking"
+		},
+		"Time": {
+			"minutes": "minutes",
+			"nd": "and",
+			"hour": "hour",
+			"day": "day",
+			"minute": "minute",
+			"second": "second",
+			"now": "now",
+			"days": "days",
+			"forever": "forever",
+			"seconds": "seconds",
+			"hours": "hours"
+		}
+	},
+	"errmsgs": {
+		"-4": "Incomming call",
+		"-3": "Call ended",
+		"-2": "Operation Aborted",
+		"-1": "Dialing...",
+		"0": "Call in progress",
+		"1": "The person who you're trying to call is out of range",
+		"2": "Invalid call code",
+		"3": "All lines busy. Try again later.",
+		"4": "Number blocked/disconnected",
+		"5": "The person who you're trying to call is not in this area",
+		"6": "The person who you're trying to call is already in one",
+		"7": "Invalid phone number",
+		"16": "Not enough reception",
+		"17": "Call dropped",
+		"18": "Your phone plan doesn't support this",
+		"-127": "The ARCPhone system failed to load.",
+		"-128": "Unkown Error. Try again later."
+	},
+	"settingsdesc": {
+		"name": "The displayed \"short\" name of the addon.",
+		"name_long": "The displayed \"long\" name of the addon.",
+		"antenna_range": "This maximum range (distance) of the reception antennas",
+		"antenna_strength": "How far the reception antennas radio waves can travel through walls",
+		"jammer_range": "This maximum range (distance) of the cellphone jammers",
+		"jammer_strength": "How far the cellphone jammer radio waves can travel through walls",
+		"phone_max_lines": "How many calls can be on the server at once",
+		"phone_realistic_reception": "Enabled realistic reception. (Turning this off might cause strange bugs)",
+		"phone_clock_cycle": "If enabled, the phone clock will display the time of the day/night cycle on the server. (Currently supports Atmos and SimpleWeather)",
+		"override_text_chat": "This forces in-game messages to only be seen by nearby players. (Unless in an ARCPhone call) Only enable this if your gamemode doesn't support this natively.",
+		"override_voice_chat": "This forces all in-game voice chat to be 3D and can only be heard by nearby players. (Unless in an ARCPhone call) Only enable this if your gamemode doesn't support this natively.",
+		"override_chat_distance": "The distance before players will",
+		"disable_beta_message": "This will disable the BETA warning in your phone. (This will not change the current stage of ARCPhone tho)"
+	}
+}
