@@ -19,6 +19,11 @@
 		"Items": {
 			"Phone": "Phone"
 		},
+        "Phone": {
+            "CallNoNumber": "No Phone number specified.",
+            "CallNotRunning": "No call running or call has not been established.",
+            "CallInvalid": "Invalid operation"
+        },
 		"CommandOutput": {
 			"SysReset": "System reset required!",
 			"SysSetting": "%SETTING% has been changed to %VALUE%",
