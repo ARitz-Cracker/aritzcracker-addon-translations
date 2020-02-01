@@ -64,7 +64,7 @@
 			"AntennasDError": "An error occurred while detaching Antennas from map.",
 
             "AntennasRespawning": "Re-spawning Map-Based Antennas...",
-			"AntennasRespawn": "Map-Based Antennas re-spawned!",
+			"AntennasRespawned": "Map-Based Antennas re-spawned!",
 
             "AntennasSpawnError": "No Antennas associated with this map. (Non-existent/Currupt file)",
 		},
