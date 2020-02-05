@@ -41,8 +41,15 @@
 			"Description": "Description:",
 			"Enable": "Enable",
 			"Settings": "Settings",
+            "AdvancedSettings": "Advanced Settings",
 			"ChooseSetting": "Choose setting",
-			"SaveSettings": "Save settings"
+			"SaveSettings": "Save settings",
+            "EmergencyNumbers": "Emergency Numbers",
+            "NoTeamError": "No team selected.",
+            "NoNumberError": "No number selected.",
+            "AddTeam": "Add new team...",
+            "RemoveTeam": "Remove selected team"
+
 		},
 		"Commands": {
 			"antenna_save": "Save and freeze all antennas",
