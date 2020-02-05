@@ -57,6 +57,7 @@
             "AdvancedSettings": "Advanced Settings",
 			"ChooseSetting": "Choose setting",
 			"SaveSettings": "Save settings",
+			"ServerLogs": "Server Logs",
             "EmergencyNumbers": "Emergency Numbers",
             "NoTeamError": "No team selected.",
             "NoNumberError": "No number selected.",
