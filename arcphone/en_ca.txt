@@ -24,15 +24,28 @@
             "CallNotRunning": "No call running or call has not been established.",
             "CallInvalid": "Invalid operation"
         },
-		"CommandOutput": {
+    	"CommandOutput": {
 			"SysReset": "System reset required!",
 			"SysSetting": "%SETTING% has been changed to %VALUE%",
 			"admin": "You must be an admin to use this command!",
 			"superadmin": "You must be an superadmin to use this command!",
 			"SettingsSaved": "Settings have been saved!",
 			"SettingsError": "Error saving settings.",
-			"ResetYes": "System resetsdf!",
-			"ResetNo": "Error. Check server console for details. Or look at the latest system log located in garrysmod/data/_arcslots on the server."
+			"ResetYes": "System reset!",
+			"ResetNo": "Error. Check server console for details. Or look at the latest system log located in garrysmod/data/_arcphone_server/syslogs on the server.",
+		
+            "AntennasSaving": "Saving Antennas to map...",
+        	"AntennasSaved": "Antennas saved onto map!",
+			"AntennasError": "An error occurred while saving the Antennas onto the map.",
+
+            "AntennasDetatching": "Detatching Antennas from map...",
+			"AntennasDSaved": "Antennas detached from map!",
+			"AntennasDError": "An error occurred while detaching Antennas from map.",
+
+            "AntennasRespawning": "Re-spawning Map-Based Antennas...",
+			"AntennasRespawned": "Map-Based Antennas re-spawned!",
+
+            "AntennasSpawnError": "No Antennas associated with this map. (Non-existent/Currupt file)"
 		},
 		"AdminMenu": {
 			"Commands": "Commands",
@@ -56,29 +69,6 @@
 			"antenna_unsave": "Unsave and unfreeze all antennas",
 			"antenna_respawn": "Respawn frozen antennas",
 			"antenna_spawn": "Spawn an antenna where you're looking"
-		},
-		"CommandOutput": {
-			"SysReset": "System reset required!",
-			"SysSetting": "%SETTING% has been changed to %VALUE%",
-			"admin": "You must be an admin to use this command!",
-			"superadmin": "You must be an superadmin to use this command!",
-			"SettingsSaved": "Settings have been saved!",
-			"SettingsError": "Error saving settings.",
-			"ResetYes": "System reset!",
-			"ResetNo": "Error. Check server console for details. Or look at the latest system log located in garrysmod/data/_arcphone_server/syslogs on the server.",
-		
-            "AntennasSaving": "Saving Antennas to map...",
-        	"AntennasSaved": "Antennas saved onto map!",
-			"AntennasError": "An error occurred while saving the Antennas onto the map.",
-
-            "AntennasDetatching": "Detatching Antennas from map...",
-			"AntennasDSaved": "Antennas detached from map!",
-			"AntennasDError": "An error occurred while detaching Antennas from map.",
-
-            "AntennasRespawning": "Re-spawning Map-Based Antennas...",
-			"AntennasRespawned": "Map-Based Antennas re-spawned!",
-
-            "AntennasSpawnError": "No Antennas associated with this map. (Non-existent/Currupt file)",
 		},
 		"Time": {
 			"minutes": "minutes",
